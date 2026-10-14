@@ -52,7 +52,7 @@ et préparer des campagnes personnalisées.
 | Backend | Python, FastAPI, Pydantic, Uvicorn |
 | Machine learning | CatBoost, scikit-learn, pandas, joblib |
 | Recherche documentaire | FAISS, sentence-transformers |
-| IA générative | Groq, avec clé conservée côté backend |
+| IA générative | Ollama en local avec le modèle `qwen2.5:7b` |
 | Persistance | MongoDB pour les campagnes |
 | Infrastructure locale | Docker Compose |
 
@@ -83,8 +83,8 @@ et préparer des campagnes personnalisées.
 - Node.js 20 ou version ultérieure recommandé.
 - npm.
 - Docker Desktop, uniquement si la persistance MongoDB est nécessaire.
-- Une clé Groq si les explications IA, le chatbot ou la génération de
-  messages doivent être activés.
+- Ollama installé et le modèle `qwen2.5:7b` téléchargé si les explications IA,
+  le chatbot ou la génération de messages doivent être activés.
 
 ## Installation
 
@@ -100,12 +100,28 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Configurez ensuite les variables d’environnement nécessaires. La clé Groq
-doit rester uniquement côté backend :
+### 2. Ollama (IA locale, optionnel)
+
+Le backend utilise l’API compatible OpenAI d’Ollama sur
+`http://localhost:11434/v1`. Les explications, les messages de campagne et les
+réponses du chatbot sont ainsi générés localement, sans envoyer les données
+clients à un service cloud.
+
+Installez Ollama depuis [ollama.com](https://ollama.com), démarrez le service,
+puis téléchargez le modèle utilisé par l’application :
 
 ```powershell
-$env:GROQ_API_KEY="votre-cle-groq"
+ollama pull qwen2.5:7b
 ```
+
+Vérifiez que le modèle est disponible :
+
+```powershell
+ollama list
+```
+
+Le service Ollama doit être accessible avant d’utiliser les fonctions d’IA
+générative.
 
 Lancez l’API :
 
@@ -120,7 +136,7 @@ Documentation interactive :
 - Swagger UI : `http://127.0.0.1:8000/docs`
 - ReDoc : `http://127.0.0.1:8000/redoc`
 
-### 2. MongoDB local (optionnel)
+### 3. MongoDB local (optionnel)
 
 À la racine du projet :
 
@@ -130,7 +146,7 @@ docker compose up -d mongodb
 
 MongoDB est exposé sur `mongodb://localhost:27017`.
 
-### 3. Frontend
+### 4. Frontend
 
 Dans un second terminal :
 
@@ -232,8 +248,8 @@ npm run build
 
 ## Sécurité et bonnes pratiques
 
-- Ne jamais committer `.env`, `GROQ_API_KEY` ou une autre clé secrète.
-- Ne jamais exposer une clé Groq dans le frontend.
+- Ne jamais committer `.env` ou une autre clé secrète.
+- Ne jamais exposer de configuration LLM sensible dans le frontend.
 - Ne pas utiliser de données clients réelles dans un environnement de
   démonstration sans anonymisation.
 - Vérifier CORS, authentification et autorisations avant un déploiement public.
