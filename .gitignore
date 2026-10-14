@@ -1,0 +1,57 @@
+# ==============================
+# Python / Backend
+# ==============================
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Fichiers temporaires et logs
+*.log
+logs/
+
+# ==============================
+# Frontend / Next.js
+# ==============================
+node_modules/
+.next/
+out/
+build/
+dist/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# ==============================
+# Archives et fichiers compressés
+# ==============================
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+
+# ==============================
+# Données volumineuses
+# ==============================
+backend_api_assurance_v3/backend/data/dataset_pack_prototype_fictif.csv
+
+# ==============================
+# Fichiers sensibles
+# ==============================
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# ==============================
+# IDE et système
+# ==============================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

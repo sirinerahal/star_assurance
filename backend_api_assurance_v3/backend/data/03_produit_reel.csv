@@ -1,0 +1,22 @@
+produit_code,produit_nom,branche,categorie,description,niveau_couverture,est_complementaire,produit_parent,canal_distribution,actif,date_creation
+672,TD EMPRUNTEUR INDIVIDUELLE,Assurance,Catalogue réel,TD EMPRUNTEUR INDIVIDUELLE,Standard,False,,Agence,True,2026-07-08
+608,Epargne - Retraite - Motivation Collectif,Assurance,Catalogue réel,Epargne - Retraite - Motivation Collectif,Standard,False,,Agence,True,2026-07-08
+6081,Epargne - Retraite - Motivation,Assurance,Catalogue réel,Epargne - Retraite - Motivation,Standard,False,,Agence,True,2026-07-08
+671,TD PREVOYANCE INDIVIDUELLE,Assurance,Catalogue réel,TD PREVOYANCE INDIVIDUELLE,Standard,False,,Agence,True,2026-07-08
+601,TD EMPRUNTEUR COLLECTIF,Assurance,Catalogue réel,TD EMPRUNTEUR COLLECTIF,Standard,False,,Agence,True,2026-07-08
+6011,TD EMPRUNTEUR,Assurance,Catalogue réel,TD EMPRUNTEUR,Standard,False,,Agence,True,2026-07-08
+602,TD PREVOYANCE COLLECTIF,Assurance,Catalogue réel,TD PREVOYANCE COLLECTIF,Standard,False,,Agence,True,2026-07-08
+6021,TD PREVOYANCE,Assurance,Catalogue réel,TD PREVOYANCE,Standard,False,,Agence,True,2026-07-08
+691,Avenir Jeunesse,Assurance,Catalogue réel,Avenir Jeunesse,Standard,False,,Agence,True,2026-07-08
+609,IDR,Assurance,Catalogue réel,IDR,Standard,False,,Agence,False,2026-07-08
+6091,Indémnité de départ à la retraite,Assurance,Catalogue réel,Indémnité de départ à la retraite,Standard,False,,Agence,True,2026-07-08
+688,Longue vie,Assurance,Catalogue réel,Longue vie,Standard,False,,Agence,True,2026-07-08
+618,Vie Nouvelle,Assurance,Catalogue réel,Vie Nouvelle,Standard,False,,Agence,True,2026-07-08
+685,Epargne 7ayya,Assurance,Catalogue réel,Epargne 7ayya,Standard,False,,Agence,True,2026-07-08
+603,TD ENGAGEMENT COLLECTIF,Assurance,Catalogue réel,TD ENGAGEMENT COLLECTIF,Standard,False,,Agence,True,2026-07-08
+6031,TD ENGAGEMENT,Assurance,Catalogue réel,TD ENGAGEMENT,Standard,False,,Agence,True,2026-07-08
+692,Avenir Jeunesse,Assurance,Catalogue réel,Avenir Jeunesse,Standard,False,,Agence,True,2026-07-08
+673,Homme clé,Assurance,Catalogue réel,Homme clé,Standard,False,,Agence,True,2026-07-08
+693,E-Avenir Jeunesse,Assurance,Catalogue réel,E-Avenir Jeunesse,Standard,False,,Agence,True,2026-07-08
+687,E-7ayya,Assurance,Catalogue réel,E-7ayya,Standard,False,,Agence,False,2026-07-08
+686,Epargne 7ayya QNB,Assurance,Catalogue réel,Epargne 7ayya QNB,Standard,False,,Agence,True,2026-07-08

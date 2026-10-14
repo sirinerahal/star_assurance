@@ -1,0 +1,365 @@
+STAR Assurances — PROJECT CONTEXT
+
+1. Objectif du projet
+
+Plateforme IA de recommandation de produits d’assurance pour STAR Assurances.
+
+L’application analyse le profil client, les contrats existants et les informations disponibles afin de proposer les produits les plus pertinents, avec une explication personnalisée.
+
+Le projet existe déjà. Il ne faut PAS le recréer depuis zéro. Toutes les fonctionnalités fonctionnelles doivent être conservées.
+
+2. Architecture
+
+Frontend
+
+React / Next.js / TypeScript
+
+Communication avec le Backend via API REST
+
+Fichier important : lib/api.ts
+
+Variable d’API : NEXT_PUBLIC_API_URL
+
+Valeur locale par défaut : http://127.0.0.1:8000
+
+Backend
+
+Python / FastAPI
+
+API REST
+
+Chargement des données et du modèle ML au démarrage
+
+Gestion notamment des clients, recommandations, campagnes et chatbot
+
+3. Fonctionnalités existantes
+
+Dashboard
+
+Liste/recherche des clients
+
+Profil client
+
+Produits détenus
+
+Événements client
+
+Historique des recommandations
+
+Recommandation IA
+
+Explication des recommandations
+
+Campagnes massives
+
+Segmentation
+
+Scoring IA et répartition des scores
+
+Génération Email/SMS
+
+Lancement et historique des campagnes
+
+Chatbot IA
+
+Intégration Groq
+
+Ne pas supprimer ou recréer ces fonctionnalités si elles existent déjà.
+
+4. Système de recommandation
+
+Flux général :
+Client → Profil → Modèle ML → Scores → Produits pertinents → Recommandations → Explication personnalisée.
+
+Endpoint principal :
+GET /recommandations/{client_id}
+
+Paramètre :
+avec_explication
+
+Le Frontend appelle cet endpoint via lib/api.ts.
+
+Vérifier :
+
+chargement du modèle ;
+
+données utilisées pour la prédiction ;
+
+calcul des scores ;
+
+sélection des produits ;
+
+cohérence avec le profil client ;
+
+prise en compte des produits déjà détenus selon la logique existante ;
+
+explication personnalisée ;
+
+intégration Backend → Frontend ;
+
+affichage ;
+
+cas sans recommandation ;
+
+erreurs et cas limites.
+
+Ne pas remplacer le modèle ML existant sans raison technique claire et validation préalable.
+
+5. IA générative / Groq
+
+Groq est utilisé notamment pour :
+
+explication des recommandations ;
+
+chatbot ;
+
+génération de contenu Email/SMS.
+
+La clé Groq est sensible :
+
+ne jamais l’exposer dans le Frontend ;
+
+ne jamais la hardcoder ;
+
+la conserver côté Backend/environnement ;
+
+ne jamais l’afficher dans les erreurs ou logs.
+
+6. API / Frontend ↔ Backend
+
+lib/api.ts gère notamment :
+
+clients ;
+
+produits détenus ;
+
+événements ;
+
+historique recommandations ;
+
+Dashboard ;
+
+recherche clients ;
+
+recommandations ;
+
+segments ;
+
+clients par score ;
+
+audiences ;
+
+génération de messages ;
+
+lancement/liste des campagnes ;
+
+chatbot.
+
+Ne pas modifier inutilement les contrats API existants. Avant toute modification d’endpoint, vérifier son utilisation Frontend, ses entrées, ses sorties et ses dépendances.
+
+7. OBJECTIF DE FINALISATION
+
+Finaliser complètement le projet existant afin d’obtenir une application complète, professionnelle, stable et prête à être présentée à l’encadrant.
+
+Fonctionnalités
+
+Compléter toutes les fonctionnalités restantes.
+
+Vérifier chaque fonctionnalité.
+
+Corriger bugs et incohérences.
+
+Vérifier tous les parcours utilisateurs.
+
+Vérifier toutes les interactions Frontend ↔ Backend.
+
+Vérifier la cohérence des données affichées.
+
+Frontend
+
+Vérifier toutes les pages.
+
+Vérifier navigation, affichage, responsive si pertinent.
+
+Vérifier formulaires et validations.
+
+Vérifier appels API.
+
+Gérer loading/success/empty/error.
+
+Améliorer l’UX lorsque cela apporte une réelle valeur.
+
+Conserver une interface moderne, cohérente et professionnelle.
+
+Backend
+
+Vérifier toutes les API.
+
+Vérifier les endpoints utilisés.
+
+Compléter les endpoints manquants si nécessaire.
+
+Améliorer validation, traitement des données et gestion des erreurs.
+
+Vérifier cohérence des réponses.
+
+Optimiser seulement lorsque pertinent.
+
+Ne pas modifier inutilement ce qui fonctionne.
+
+Sécurité
+
+Vérifier notamment :
+
+validation Backend ;
+
+validation Frontend lorsque pertinent ;
+
+gestion sécurisée des erreurs ;
+
+absence d’informations sensibles dans les erreurs ;
+
+CORS ;
+
+protection des routes sensibles lorsque nécessaire ;
+
+validation des entrées ;
+
+prévention injections/XSS ;
+
+protection des secrets et clés API ;
+
+bonnes pratiques de développement sécurisé.
+
+Qualité du code
+
+Le projet doit être propre, organisé, maintenable, évolutif et cohérent.
+Un refactoring est autorisé s’il apporte une vraie amélioration, sans casser les fonctionnalités existantes.
+
+8. Vérification finale
+
+Avant de considérer le projet terminé, vérifier :
+
+Frontend
+
+Pages, navigation, formulaires, affichage, loading/error/empty states et appels API.
+
+Backend
+
+Endpoints, validation, erreurs, traitement des données et intégration ML.
+
+Intégration
+
+Frontend ↔ Backend, recommandations, chatbot, campagnes, génération de messages et données clients.
+
+Sécurité
+
+Secrets, CORS, entrées, erreurs et routes sensibles.
+
+Démonstration
+
+L’application doit être stable et prête pour une démonstration devant l’encadrant.
+
+9. MÉTHODE DE TRAVAIL OBLIGATOIRE
+
+NE PAS modifier tout le projet en une seule étape.
+
+Pour chaque fonctionnalité :
+
+Analyser le code existant.
+
+Identifier les fichiers concernés.
+
+Identifier les dépendances.
+
+Identifier les problèmes.
+
+Proposer la modification.
+
+Implémenter.
+
+Tester.
+
+Vérifier qu’aucune fonctionnalité existante n’est cassée.
+
+Passer à la suivante.
+
+Commencer par les fonctionnalités critiques, notamment la recommandation.
+
+Ne pas modifier de fichiers non nécessaires à la tâche en cours.
+
+10. RÈGLES IMPORTANTES
+
+Ne pas recommencer le projet.
+
+Ne pas supprimer une fonctionnalité sans validation.
+
+Ne pas remplacer l’architecture actuelle sans raison.
+
+Ne pas remplacer le modèle ML existant sans validation.
+
+Ne pas inventer fichiers/endpoints/fonctionnalités sans vérifier le projet.
+
+Toujours analyser avant de modifier.
+
+Vérifier les dépendances Frontend/Backend.
+
+Tester après chaque modification importante.
+
+Expliquer la cause avant de corriger un problème.
+
+Si une information manque, demander le fichier/contexte nécessaire au lieu de deviner.
+
+Ne jamais exposer secrets ou clés API.
+
+Éviter les réponses contenant des milliers de lignes si une modification ciblée suffit.
+
+11. PREMIÈRE ÉTAPE DANS UN NOUVEAU CHAT
+
+NE MODIFIE AUCUN FICHIER immédiatement.
+
+Commence par analyser le projet existant et donne :
+
+résumé de l’architecture ;
+
+technologies détectées ;
+
+fonctionnalités présentes ;
+
+fonctionnement actuel de la recommandation ;
+
+principaux endpoints Backend ;
+
+principaux fichiers Frontend ;
+
+problèmes/incohérences détectés ;
+
+fonctionnalités restantes ;
+
+plan de travail priorisé.
+
+Puis attends ma validation avant de modifier.
+
+12. PRIORITÉ
+
+Système de recommandation
+
+Intégration recommandation Frontend ↔ Backend
+
+Stabilité des parcours clients
+
+Backend/API
+
+Frontend/UX
+
+Chatbot IA
+
+Campagnes
+
+Sécurité
+
+Tests et vérification finale
+
+Améliorations secondaires
+
+Priorité absolue : obtenir une recommandation fiable, fonctionnelle et présentable.

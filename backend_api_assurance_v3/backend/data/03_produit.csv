@@ -1,0 +1,13 @@
+produit_code,produit_nom,branche,categorie,description,niveau_couverture,est_complementaire,produit_parent,canal_distribution,actif,date_creation
+AUTO_TOUS_RISQUES,Assurance Auto Tous Risques,Auto,Principale,Assurance Auto Tous Risques - couverture premium,Premium,False,,Tous canaux,True,2018-08-02
+AUTO_TIER,Assurance Auto Tiers,Auto,Principale,Assurance Auto Tiers - couverture basique,Basique,False,,Tous canaux,True,2015-08-17
+HABITATION,Assurance Habitation,Habitation,Principale,Assurance Habitation - couverture standard,Standard,False,,Tous canaux,True,2015-02-21
+SANTE,Assurance Santé,Santé,Principale,Assurance Santé - couverture standard,Standard,False,,Tous canaux,True,2019-02-27
+VIE,Assurance Vie,Vie,Principale,Assurance Vie - couverture premium,Premium,False,,Tous canaux,True,2016-07-17
+PROTECTION_JURIDIQUE,Protection Juridique,Juridique,Complémentaire,Protection Juridique - couverture standard,Standard,True,AUTO_TOUS_RISQUES,Tous canaux,True,2016-05-16
+ASSISTANCE_PREMIUM,Assistance Premium,Assistance,Complémentaire,Assistance Premium - couverture premium,Premium,True,AUTO_TOUS_RISQUES,Tous canaux,True,2016-04-02
+BRIS_DE_GLACE,Bris de Glace,Auto,Complémentaire,Bris de Glace - couverture basique,Basique,True,AUTO_TOUS_RISQUES,Tous canaux,True,2015-10-13
+CONDUCTEUR,Assurance Conducteur,Auto,Complémentaire,Assurance Conducteur - couverture standard,Standard,True,AUTO_TIER,Tous canaux,True,2019-02-17
+DEGATS_DES_EAUX,Garantie Dégâts des Eaux,Habitation,Complémentaire,Garantie Dégâts des Eaux - couverture standard,Standard,True,HABITATION,Tous canaux,True,2015-07-29
+SANTE_DENTAIRE,Option Dentaire,Santé,Complémentaire,Option Dentaire - couverture standard,Standard,True,SANTE,Tous canaux,True,2018-10-17
+PREVOYANCE,Prévoyance Obsèques,Vie,Principale,Prévoyance Obsèques - couverture basique,Basique,False,,Tous canaux,True,2019-02-25

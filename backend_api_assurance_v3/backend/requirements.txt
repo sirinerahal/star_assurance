@@ -1,0 +1,15 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pandas==2.2.3
+openpyxl==3.1.5
+xlrd==2.0.2
+numpy==1.26.4
+scikit-learn==1.5.2
+joblib==1.4.2
+faiss-cpu==1.9.0
+sentence-transformers==3.3.1
+groq==0.13.0
+openai>=1.0.0
+pydantic==2.10.3
+catboost==1.2.7
+pymongo

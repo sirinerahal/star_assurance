@@ -1,0 +1,169 @@
+[
+  {
+    "campagne_id": "CMP-507ED613",
+    "nom": "TEST",
+    "objectif": "Acquisition",
+    "produits": [
+      "AUTO_TOUS_RISQUES"
+    ],
+    "statut": "lancee",
+    "nb_destinataires": 1088,
+    "canaux": "email",
+    "date_lancement": "2026-07-31T09:43:40.547659"
+  },
+  {
+    "campagne_id": "CMP-B4FD7A31",
+    "nom": "TEST1",
+    "objectif": "Fidélisation",
+    "produits": [
+      "AUTO_TOUS_RISQUES"
+    ],
+    "statut": "lancee",
+    "nb_destinataires": 777,
+    "canaux": "email",
+    "date_lancement": "2026-07-31T09:45:31.038631"
+  },
+  {
+    "campagne_id": "CMP-29A40F73",
+    "nom": "TEST2",
+    "objectif": "Acquisition",
+    "produits": [
+      "PREVOYANCE"
+    ],
+    "statut": "lancee",
+    "nb_destinataires": 1018,
+    "canaux": "email,sms",
+    "date_lancement": "2026-07-31T09:49:40.041661"
+  },
+  {
+    "campagne_id": "CMP-E4384227",
+    "nom": "test a",
+    "objectif": "Acquisition",
+    "produits": [
+      "AUTO_TOUS_RISQUES"
+    ],
+    "statut": "lancee",
+    "nb_destinataires": 5977,
+    "canaux": "email",
+    "date_lancement": "2026-08-27T09:38:59.659116"
+  },
+  {
+    "campagne_id": "CMP-E9E4B829",
+    "nom": "TESSS",
+    "objectif": "Acquisition",
+    "produits": [
+      "PREVOYANCE"
+    ],
+    "statut": "lancee",
+    "nb_destinataires": 5383,
+    "canaux": "email",
+    "date_lancement": "2026-08-28T09:37:27.325824"
+  },
+  {
+    "campagne_id": "CMP-85671007",
+    "nom": "ahhh",
+    "objectif": "Acquisition",
+    "produits": [
+      "AUTO_TIER"
+    ],
+    "statut": "lancee",
+    "nb_destinataires": 3497,
+    "canaux": "email",
+    "date_lancement": "2026-08-31T12:51:13.028407"
+  },
+  {
+    "campagne_id": "CMP-3DF9A93E",
+    "nom": "test23",
+    "objectif": "Acquisition",
+    "produits": [
+      "AUTO_TOUS_RISQUES"
+    ],
+    "statut": "lancee",
+    "nb_destinataires": 4887,
+    "canaux": "email",
+    "date_debut": "",
+    "date_fin": "",
+    "frequence": "",
+    "fuseau": "",
+    "heure": "",
+    "desabonnement": true,
+    "description": "",
+    "date_lancement": "2026-09-01T20:56:23.312816"
+  },
+  {
+    "campagne_id": "CMP-182A8486",
+    "nom": "ahh",
+    "objectif": "Acquisition",
+    "produits": [
+      "687"
+    ],
+    "statut": "lancee",
+    "nb_destinataires": 9576,
+    "canaux": "email",
+    "date_debut": "",
+    "date_fin": "",
+    "frequence": "",
+    "fuseau": "",
+    "heure": "",
+    "desabonnement": true,
+    "description": "",
+    "date_lancement": "2026-09-08T13:48:35.116220"
+  },
+  {
+    "campagne_id": "CMP-34F6CB76",
+    "nom": "2026",
+    "objectif": "Acquisition",
+    "produits": [
+      "687"
+    ],
+    "statut": "lancee",
+    "nb_destinataires": 8914,
+    "canaux": "sms",
+    "date_debut": "",
+    "date_fin": "",
+    "frequence": "",
+    "fuseau": "",
+    "heure": "",
+    "desabonnement": true,
+    "description": "",
+    "date_lancement": "2026-09-09T11:49:27.357620"
+  },
+  {
+    "campagne_id": "CMP-A0CD9D11",
+    "nom": "test12",
+    "objectif": "Acquisition",
+    "produits": [
+      "618"
+    ],
+    "statut": "lancee",
+    "nb_destinataires": 394,
+    "canaux": "email",
+    "date_debut": "",
+    "date_fin": "",
+    "frequence": "",
+    "fuseau": "",
+    "heure": "",
+    "desabonnement": true,
+    "description": "",
+    "date_lancement": "2026-09-09T11:52:49.388694"
+  },
+  {
+    "campagne_id": "CMP-A6988E7C",
+    "nom": "f",
+    "objectif": "Acquisition",
+    "produits": [
+      "609"
+    ],
+    "statut": "lancee",
+    "nb_destinataires": 8900,
+    "canaux": "email",
+    "date_debut": "",
+    "date_fin": "",
+    "frequence": "",
+    "fuseau": "",
+    "heure": "",
+    "desabonnement": true,
+    "description": "",
+    "date_lancement": "2026-09-09T11:56:11.251137"
+  }
+]

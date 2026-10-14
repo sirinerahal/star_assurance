@@ -1,0 +1,1507 @@
+produit_code,garantie_code,garantie_nom,description,capital_couvert,franchise,obligatoire
+COLL,U2,Garantie ITT Collective,Collective vie,,,False
+COLL,U1,Garantie Epargne Collective,Collective vie,,,False
+55,U6,Tous dommages confondus,RC Centralisé,,,False
+55,U5,Reconstitution des limites,RC Centralisé,,,False
+55,U8,Dommages matériels et immatériels consécutifs,RC Centralisé,,,False
+55,U9,Garantie subséquente,RC Centralisé,,,False
+55,U3,Dommages matériels,RC Centralisé,,,False
+55,U1,Dommages corporels,RC Centralisé,,,False
+55,U2,Dommage immatériels consécutifs,RC Centralisé,,,False
+55,U4,Défense et recours,RC Centralisé,,,False
+55,U10,Détorioration d'archive,RC Centralisé,,,False
+55,U11,Dommages immatériels purs,RC Centralisé,,,False
+55,U12,Reprise du passé inconnu,RC Centralisé,,,False
+55,U13,Etendue territoriale (monde entier sauf USA et CAN,RC Centralisé,,,False
+55,U14,Perte d'image de marque,RC Centralisé,,,False
+55,U15,Frais de retrait de produit,RC Centralisé,,,False
+55,U16,travaux d'excavation,RC Centralisé,,,False
+55,U17,Pollution accidentelle,RC Centralisé,,,False
+55,U18,Incendie/Explosion,RC Centralisé,,,False
+55,U19,"Chargement et déchargement, manutention",RC Centralisé,,,False
+55,U20,Coffre-fort,RC Centralisé,,,False
+55,U21,Effets des voyageurs,RC Centralisé,,,False
+55,U22,Bagages confiés ou en consigne,RC Centralisé,,,False
+55,U23,vol,RC Centralisé,,,False
+55,U24,Dégât des eaux,RC Centralisé,,,False
+55,U25,Individuelle Accident Complémentaire,RC Centralisé,,,False
+55,U26,Autre,RC Centralisé,,,False
+55,U27,Prime de contrat,RC Centralisé,,,False
+55,U28,Dommages corporels et materiels,RC Centralisé,,,False
+55,U32,Dommages corporels et immateriels consécutifs,RC Centralisé,,,False
+55,U1,Cout d'avenant,RC Centralisé,,,False
+55,U2,Cout de contrat,RC Centralisé,,,False
+55,U7,RC croisée,RC Centralisé,,,False
+111,DE,Dégat des eaux,Incendie Habitation,,,False
+111,FDR,Frais de deplacement et replacement,Incendie Habitation,,,False
+111,FRF,Frais de recherche de fuites,Incendie Habitation,,,False
+111,RSP,risque de responsabilté,Incendie Habitation,,,False
+111,EXDE,extension dégats des eaux,Incendie Habitation,,,False
+111,U1,Dommage Corporels,Incendie Habitation,,,False
+111,U2,Dommage Matériels,Incendie Habitation,,,False
+111,INCHAB,Incendie,Incendie Habitation,,,False
+111,DAPE,Dommages aux appareils électriques et électroniques,Incendie Habitation,,,False
+111,EXPHAB,Toute Explosion,Incendie Habitation,,,False
+111,VALNE,Valeur à neuf,Incendie Habitation,,,False
+111,RSCAT,Risques spéciaux et CAT NAT,Incendie Habitation,,,False
+111,PRSCAT,Pack Risques spéciaux et CAT NAT,Incendie Habitation,,,False
+111,GEMP,GEMP,Incendie Habitation,,,False
+111,VOL,VOL,Incendie Habitation,,,False
+111,CC,Cout contrat,Incendie Habitation,,,False
+111,HEX,Honnoraires expert,Incendie Habitation,,,False
+111,U2,Cout avenant,Incendie Habitation,,,False
+111,VES,Véhicule en stationnement,Incendie Habitation,,,False
+111,EXRVT,Toutes explosions RVT,Incendie Habitation,,,False
+111,FDB,Frais de demolition et deblais,Incendie Habitation,,,False
+111,RS,Risque de Responsabilté,Incendie Habitation,,,False
+130,U9,Dommages aux appareils électriques et électroniques,Incendie,,,False
+130,U1,Toutes explosions,Incendie,,,False
+130,U2,Cout d'avenant,Incendie,,,False
+130,U1,Cout du contrat,Incendie,,,False
+130,U19,Dérogation à la RP,Incendie,,,False
+130,U18,Réversibilité ou Report des Excédents,Incendie,,,False
+130,U17,Coulage et contamination,Incendie,,,False
+130,U16,Fuite de sprinklers,Incendie,,,False
+130,U15,Nouvelles acquisitions / Assurance automatique,Incendie,,,False
+130,U20,Toutes explosions RVT,Incendie,,,False
+130,U2,Honoraires expert,Incendie,,,False
+130,U3,Frais et pertes,Incendie,,,False
+130,U4,Pack Frais et pertes,Incendie,,,False
+130,U5,Pertes indirectes,Incendie,,,False
+130,U6,Pertes accidentelles de liquide,Incendie,,,False
+130,U7,Risques spéciaux + CAT NAT,Incendie,,,False
+130,U8,Pack Risques spéciaux + CAT NAT,Incendie,,,False
+130,U1,Incendie,Incendie,,,False
+130,U10,GEMP,Incendie,,,False
+130,U11,Risque de responsabilité,Incendie,,,False
+130,U12,Pack Risque de responsabilité,Incendie,,,False
+130,U13,Valeur à neuf,Incendie,,,False
+130,U14,Risque atomique,Incendie,,,False
+132,U2,Honoraires expert ,Perte d'exploitation,,,False
+132,U3,Perte d'exploitation suite TRO,Perte d'exploitation,,,False
+132,U2,Perte d'exploitation suite Bris de machines,Perte d'exploitation,,,False
+132,U3,Pénalités de retard,Perte d'exploitation,,,False
+132,U1,Perte d'exploitation suite incendie,Perte d'exploitation,,,False
+132,U8,Extension_Perte d'exploitation suite Bris de machines,Perte d'exploitation,,,False
+132,U7,Extensions facultatives_Perte d'exploitation suite incendie,Perte d'exploitation,,,False
+132,U1,Frais supplémentaires additionnels,Perte d'exploitation,,,False
+132,U6,Extension_Perte d'exploitation suite incendie,Perte d'exploitation,,,False
+136,U2,Aleas Climatiques récoltes et plantation (hors Grêle) (Formule pack),MRA,,,False
+136,U4,Toutes explosions RVT,MRA,,,False
+136,U5,Honoraires expert,MRA,,,False
+136,U6,Frais et pertes,MRA,,,False
+136,U7,Pack Frais et pertes,MRA,,,False
+136,U8,Pertes indirectes,MRA,,,False
+136,U9,Pertes accidentelles de liquide,MRA,,,False
+136,U12,Risques spéciaux + CAT NAT,MRA,,,False
+136,U14,Dommages aux appareils électriques et électronique,MRA,,,False
+136,U15,Risque de responsabilité,MRA,,,False
+136,U16,Pack Risque de responsabilité,MRA,,,False
+136,U17,Valeur à neuf,MRA,,,False
+136,U18,Risque atomique,MRA,,,False
+136,U19,Nouvelles acquisitions / Assurance automatique,MRA,,,False
+136,U21,Fuite de sprinklers,MRA,,,False
+136,U4,Extension aleas sur les portes fruits,MRA,,,False
+136,U5,Frais de récolte,MRA,,,False
+136,U6,Recette suite à la gestion pour compte de la récolte,MRA,,,False
+136,U6,Briques réfractaires,MRA,,,False
+136,U13,Toutes explosions,MRA,,,False
+136,U5,Pack mortalité & accident d’élevage,MRA,,,False
+136,U23,Dérogation à la RP,MRA,,,False
+136,U4,GEMP,MRA,,,False
+136,U5,Frais  et Perte,MRA,,,False
+136,U6,Honoraire expert,MRA,,,False
+136,U8,Frais et Perte (Formule Packs),MRA,,,False
+136,U7,Tremblement de terre,MRA,,,False
+136,U3,Extension_Bris de Galce formule pack,MRA,,,False
+136,U8,GEMP,MRA,,,False
+136,U10,Cyber risque,MRA,,,False
+136,U3,Renonciation a recours,MRA,,,False
+136,U4,Socles et Fondation,MRA,,,False
+136,U5,Détérioration des marchandises en entrepots frigorifriques suite bris de machines,MRA,,,False
+136,U1,Dommages matériels,MRA,,,False
+136,U2,Perte de données et support de données,MRA,,,False
+136,U3,Frais supplémentaires,MRA,,,False
+136,U3,Extension_Dégat des eaux,MRA,,,False
+136,U4,Frais et Perte,MRA,,,False
+136,U11,GEMP,MRA,,,False
+136,U2,"Mortinatalité,Avortement et perte du produit",MRA,,,False
+136,U3,mortalité des animaux hors lieu d'exploitation aux foires au marché,MRA,,,False
+136,U4,Mort suite mise bas,MRA,,,False
+136,U5,Mort suite emprunt,MRA,,,False
+136,U6,mortalité velage dystocique,MRA,,,False
+136,U7,Avortement suite transport,MRA,,,False
+136,U8,Frais visite vétérinare (Honoraires expert ),MRA,,,False
+136,U9,Frais traitement médicament enterrement et exprteise,MRA,,,False
+136,U1,Mortalité  avicole suite maladie,MRA,,,False
+136,U2,Accident d'élevage avicole,MRA,,,False
+136,U3,Abattage,MRA,,,False
+136,U4,Mortalité provoqué par MLRC,MRA,,,False
+136,U1,Aleas Climatiques récoltes et plantation (hors Grêle),MRA,,,False
+136,U1,Grêle,MRA,,,False
+136,U2,Extension grêle sur les portes fruits,MRA,,,False
+136,U3,Frais de récolte,MRA,,,False
+136,U1,Mortalité de bétail,MRA,,,False
+136,U1,Vol,MRA,,,False
+136,U2,Transport de fonds,MRA,,,False
+136,U3,Détournement de fonds,MRA,,,False
+136,U4,Détériorations immobilières,MRA,,,False
+136,U5,Détériorations mobilières,MRA,,,False
+136,U6,Disparitions inexpliquées,MRA,,,False
+136,U7,Especes en caisse,MRA,,,False
+136,U8,Contenue Coffres-Fort,MRA,,,False
+136,U9,Deterioration des Installations d'alarme,MRA,,,False
+136,U10,Deterioration Chambres-Fort et coffre_fort,MRA,,,False
+136,U11,Taxes Douanieres,MRA,,,False
+136,U12,Vol suite à GEMP,MRA,,,False
+136,U1,Honoraire expert,MRA,,,False
+136,U4,Recette suite à la gestion pour compte de la récolte,MRA,,,False
+136,U3,Voisinage aggravant,MRA,,,False
+136,U1,Dommages corporels,MRA,,,False
+136,U2,Intoxications alimentaires,MRA,,,False
+136,U3,Dommages materiels et immateriéles consécutifs,MRA,,,False
+136,U1,Incendie,MRA,,,False
+136,U1,Incendie recolte sur pieds,MRA,,,False
+136,U2,Incendie pailles perdues sur pieds,MRA,,,False
+136,U1,Bris de Glace,MRA,,,False
+136,U2,Extension_Bris de Galce,MRA,,,False
+136,U1,Dégat des eaux,MRA,,,False
+136,U2,Risques de responsabilité,MRA,,,False
+136,U1,Bris de machines,MRA,,,False
+136,U2,Dommages aux existants,MRA,,,False
+136,U22,Coulage et contamination,MRA,,,False
+136,U20,Réversibilité ou Report des Excédents,MRA,,,False
+137,U9,GEMP,MR,,,False
+137,U5,Pertes indirectes,MR,,,False
+137,U1,Dommages matériels,MR,,,False
+137,U1,Incendie,MR,,,False
+137,U2,Toutes explosions,MR,,,False
+137,U3,Pertes indirectes,MR,,,False
+137,U4,Pertes accidentelles de liquide,MR,,,False
+137,U5,Risques spéciaux + CAT NAT,MR,,,False
+137,U6,Pack risques spéciaux + CAT NAT,MR,,,False
+137,U7,Dommages aux appareils électriques et électroniques,MR,,,False
+137,U8,GEMP,MR,,,False
+137,U9,Risque de responsabilité,MR,,,False
+137,U10,Pack risque de responsabilité,MR,,,False
+137,U11,Valeur à neuf,MR,,,False
+137,U12,Risque atomique,MR,,,False
+137,U13,Nouvelles acquisitions / Assurance automatique,MR,,,False
+137,U14,Fuite de sprinklers,MR,,,False
+137,U15,Coulage et contamination,MR,,,False
+137,U16,Réversibilité ou Report des Excédents,MR,,,False
+137,U18,Toutes Explosions RVT,MR,,,False
+137,U7,Tremblement de terre,MR,,,False
+137,U8,Briques réfractaires,MR,,,False
+137,U6,Dommages matériels,MR,,,False
+137,U17,Dérogation à la RP,MR,,,False
+137,U1,Dégat des eaux,MR,,,False
+137,U2,Extension_Dégats des eaux,MR,,,False
+137,U3,Risque de responsabilité,MR,,,False
+137,U4,Frais et Perte,MR,,,False
+137,U7,Renonciation au recours,MR,,,False
+137,U2,GEMP,MR,,,False
+137,U3,Perte de données et support de données,MR,,,False
+137,U4,Frais supplémentaires,MR,,,False
+137,U5,Cyber risque,MR,,,False
+137,U6,Tremblement de terre,MR,,,False
+137,U1,Perte d'exploitation suite incendie,MR,,,False
+137,U2,Extension_Perte d'exploitation suite incendie,MR,,,False
+137,U3,Extensions facultatives_Perte d'exploitation suite incendie,MR,,,False
+137,U4,Frais supplémentaires additionnels,MR,,,False
+137,U5,Pénalités de retard,MR,,,False
+137,U6,Perte d'exploitation suite TRO,MR,,,False
+137,U7,Perte d'exploitation suite Bris de machines,MR,,,False
+137,U8,Extension_Perte d'exploitation suite Bris de machines,MR,,,False
+137,U1,Vol,MR,,,False
+137,U2,Extension _Vol,MR,,,False
+137,U3,Détournement de fonds,MR,,,False
+137,U4,Détériorations immobilières,MR,,,False
+137,U5,Détériorations mobilières,MR,,,False
+137,U6,Disparitions inexpliquées,MR,,,False
+137,U7,Especes en caisse,MR,,,False
+137,U8,Dommages matériels causés aux biens,MR,,,False
+137,U9,Contenue Coffres-Fort,MR,,,False
+137,U10,Deterioration des Installations d'alarme,MR,,,False
+137,U11,Deterioration Chambres-Fort et coffre_fort,MR,,,False
+137,U12,Taxes Douanieres,MR,,,False
+137,U13,Utilisation Frauduleuse des cartes,MR,,,False
+137,U14,Transport de fonds,MR,,,False
+137,U15,Vol suite à GEMP,MR,,,False
+137,U16,Faux et falsification des valeurs,MR,,,False
+137,U1,Bris de glaces,MR,,,False
+137,U2,Extension_Bris de Glaces,MR,,,False
+137,U3,Pack Extension_Bris de Glaces,MR,,,False
+137,U1,Bris de Machine,MR,,,False
+137,U2,Dommages aux existants,MR,,,False
+137,U3,Renonciation au recours,MR,,,False
+137,U4,Socles et Fondations,MR,,,False
+137,U5,Détérioration des marchandises en entrepots frigorifriques suite bris de machines,MR,,,False
+137,U6,Pertes financiéres,MR,,,False
+138,U5,Cyber risque,MR COLLECTIF,,,False
+138,U6,Tremblement de terre,MR COLLECTIF,,,False
+138,U1,Perte d'exploitation suite incendie,MR COLLECTIF,,,False
+138,U2,Extension_Perte d'exploitation suite incendie,MR COLLECTIF,,,False
+138,U16,Faux et falsification des valeurs,MR COLLECTIF,,,False
+138,U1,Bris de glaces,MR COLLECTIF,,,False
+138,U2,Extension_Bris de Glaces,MR COLLECTIF,,,False
+138,U3,Pack Extension_Bris de Glaces,MR COLLECTIF,,,False
+138,U4,Socles et Fondations,MR COLLECTIF,,,False
+138,U10,Pack risque de responsabilité,MR COLLECTIF,,,False
+138,U11,Valeur à neuf,MR COLLECTIF,,,False
+138,U12,Risque atomique,MR COLLECTIF,,,False
+138,U13,Nouvelles acquisitions / Assurance automatique,MR COLLECTIF,,,False
+138,U14,Fuite de sprinklers,MR COLLECTIF,,,False
+138,U15,Coulage et contamination,MR COLLECTIF,,,False
+138,U16,Réversibilité ou Report des Excédents,MR COLLECTIF,,,False
+138,U17,Dérogation à la RP,MR COLLECTIF,,,False
+138,U1,Vol,MR COLLECTIF,,,False
+138,U2,Extension _Vol,MR COLLECTIF,,,False
+138,U3,Détournement de fonds,MR COLLECTIF,,,False
+138,U4,Détériorations immobilières,MR COLLECTIF,,,False
+138,U5,Détériorations mobilières,MR COLLECTIF,,,False
+138,U6,Disparitions inexpliquées,MR COLLECTIF,,,False
+138,U7,Especes en caisse,MR COLLECTIF,,,False
+138,U8,Dommages matériels causés aux biens,MR COLLECTIF,,,False
+138,U9,Contenue Coffres-Fort,MR COLLECTIF,,,False
+138,U10,Deterioration des Installations d'alarme,MR COLLECTIF,,,False
+138,U11,Deterioration Chambres-Fort et coffre_fort,MR COLLECTIF,,,False
+138,U12,Taxes Douanieres,MR COLLECTIF,,,False
+138,U13,Utilisation Frauduleuse des cartes,MR COLLECTIF,,,False
+138,U14,Transport de fonds,MR COLLECTIF,,,False
+138,U15,Vol suite à GEMP,MR COLLECTIF,,,False
+138,U3,Extensions facultatives_Perte d'exploitation suite incendie,MR COLLECTIF,,,False
+138,U4,Frais supplémentaires additionnels,MR COLLECTIF,,,False
+138,U5,Pénalités de retard,MR COLLECTIF,,,False
+138,U6,Perte d'exploitation suite TRO,MR COLLECTIF,,,False
+138,U7,Perte d'exploitation suite Bris de machines,MR COLLECTIF,,,False
+138,U8,Extension_Perte d'exploitation suite Bris de machines,MR COLLECTIF,,,False
+138,U1,Bris de Machine,MR COLLECTIF,,,False
+138,U2,Dommages aux existants,MR COLLECTIF,,,False
+138,U3,Renonciation au recours,MR COLLECTIF,,,False
+138,U1,Incendie,MR COLLECTIF,,,False
+138,U2,Toutes explosions,MR COLLECTIF,,,False
+138,U18,Toutes Explosions RVT,MR COLLECTIF,,,False
+138,U3,Pertes indirectes,MR COLLECTIF,,,False
+138,U4,Pertes accidentelles de liquide,MR COLLECTIF,,,False
+138,U5,Risques spéciaux + CAT NAT,MR COLLECTIF,,,False
+138,U6,Pack risques spéciaux + CAT NAT,MR COLLECTIF,,,False
+138,U7,Dommages aux appareils électriques et électroniques,MR COLLECTIF,,,False
+138,U8,GEMP,MR COLLECTIF,,,False
+138,U9,Risque de responsabilité,MR COLLECTIF,,,False
+138,U6,Pertes financiéres,MR COLLECTIF,,,False
+138,U7,Tremblement de terre,MR COLLECTIF,,,False
+138,U8,Briques réfractaires,MR COLLECTIF,,,False
+138,U9,GEMP,MR COLLECTIF,,,False
+138,U1,Dégat des eaux,MR COLLECTIF,,,False
+138,U2,Extension_Dégats des eaux,MR COLLECTIF,,,False
+138,U3,Risque de responsabilité,MR COLLECTIF,,,False
+138,U4,Frais et Perte,MR COLLECTIF,,,False
+138,U5,Pertes indirectes,MR COLLECTIF,,,False
+138,U6,Dommages matériels,MR COLLECTIF,,,False
+138,U7,Renonciation au recours,MR COLLECTIF,,,False
+138,U1,Dommages matériels,MR COLLECTIF,,,False
+138,U2,GEMP,MR COLLECTIF,,,False
+138,U3,Perte de données et support de données,MR COLLECTIF,,,False
+138,U5,Détérioration des marchandises en entrepots frigorifriques suite bris de machines,MR COLLECTIF,,,False
+138,U4,Frais supplémentaires,MR COLLECTIF,,,False
+181,U3,Dégats des eaux marchandises,Multirisque serre,,,False
+181,U4,Pertes de données,Multirisque serre,,,False
+181,U11,Pack de responsabilité FP,Multirisque serre,,,False
+181,U12,Bris de galces,Multirisque serre,,,False
+181,U4,Bris de Machines,Multirisque serre,,,False
+181,U3,Dommages Matériels,Multirisque serre,,,False
+181,U13,Destruction des Plantation suite Dommages matériels,Multirisque serre,,,False
+181,U1,Formule Packs MRS (Monoserre),Multirisque serre,,,False
+181,U2,Formule Packs MRS (Multiserre),Multirisque serre,,,False
+181,U1,Formule Packs MRS (Matériels équipement ),Multirisque serre,,,False
+181,U1,Formule Packs MRS (Marchandises ),Multirisque serre,,,False
+181,U3,Formule Packs MRS (Plantation et récolte ),Multirisque serre,,,False
+181,U1,Formule Packs MRS (Matériels informatique  ),Multirisque serre,,,False
+181,U1,Recours des voisins et des tiers,Multirisque serre,,,False
+181,U2,Valeurs à neuf,Multirisque serre,,,False
+181,U2,Dommages aux appareils électriques,Multirisque serre,,,False
+181,U3,Honoraires d’expert,Multirisque serre,,,False
+181,U4,Pack Frais et perte (Extension de garantie),Multirisque serre,,,False
+181,U5,Pack Frais et pertes,Multirisque serre,,,False
+181,U6,"Pack risques spéciaux : Fumée chute d’aéronef, aut",Multirisque serre,,,False
+181,U7,"Pack aléas climatiques : tremblement de terre, in",Multirisque serre,,,False
+181,U8,GEMP,Multirisque serre,,,False
+181,U9,VOL suite GEMP,Multirisque serre,,,False
+181,U1,Dégats des eaux,Multirisque serre,,,False
+181,U3,Dégats des eaux Matériels et equipements,Multirisque serre,,,False
+181,U2,Dégats des eaux Structure,Multirisque serre,,,False
+181,U3,Dégats des eaux plantation et récolte,Multirisque serre,,,False
+181,U5,Frais supplémentaires,Multirisque serre,,,False
+181,U2,Autres,Multirisque serre,,,False
+181,U1,Cout du contrat,Multirisque serre,,,False
+181,U2,Cout d'avenat,Multirisque serre,,,False
+181,U4,infiltration d'eau pluviales,Multirisque serre,,,False
+181,U5,Frais de recherche de fuites,Multirisque serre,,,False
+181,U14,Destruction des Plantation suite Bris de machine,Multirisque serre,,,False
+181,U15,Destruction des Plantation suite Dommages électriques,Multirisque serre,,,False
+181,U1,Dommage Corporels RCEXP,Multirisque serre,,,False
+181,U2,Dommages materiels et immateriéles consécutifs,Multirisque serre,,,False
+181,U5,VOL Matériels etéquipements,Multirisque serre,,,False
+181,U2,VOL Marchandises,Multirisque serre,,,False
+181,U1,VOL serre,Multirisque serre,,,False
+181,U2,Détérioration immobilière,Multirisque serre,,,False
+181,U10,Pack de responsabilité,Multirisque serre,,,False
+200,U5,Frais Exposés,Facultés Abonnement Maritime et Aérien,,,False
+200,U1,Risques de guerre et risques assimilés,Facultés Abonnement Maritime et Aérien,,,False
+200,U6,Disparition,Facultés Abonnement Maritime et Aérien,,,False
+200,U5,Manquant,Facultés Abonnement Maritime et Aérien,,,False
+200,U4,Droits de douane,Facultés Abonnement Maritime et Aérien,,,False
+200,U3,chargement et déchargement,Facultés Abonnement Maritime et Aérien,,,False
+200,U2,Vol,Facultés Abonnement Maritime et Aérien,,,False
+200,U4,Contribution avaries Communes,Facultés Abonnement Maritime et Aérien,,,False
+200,U3,Accident Caractérisé,Facultés Abonnement Maritime et Aérien,,,False
+200,U2,F.A.P sauf,Facultés Abonnement Maritime et Aérien,,,False
+200,U1,Tous risque,Facultés Abonnement Maritime et Aérien,,,False
+200,U4,Surprimes Transbordement,Facultés Abonnement Maritime et Aérien,,,False
+200,U3,Surprimes Tonnage,Facultés Abonnement Maritime et Aérien,,,False
+200,U2,Surprimes Nationalité,Facultés Abonnement Maritime et Aérien,,,False
+200,U1,Surprimes âge,Facultés Abonnement Maritime et Aérien,,,False
+201,U5,Manquant,Transport Faculté terrestre,,,False
+201,U1,Tous risque,Transport Faculté terrestre,,,False
+201,U3,Accident Caractérisé,Transport Faculté terrestre,,,False
+201,U5,Frais Exposés,Transport Faculté terrestre,,,False
+201,U1,Risques de guerre et risques assimilés,Transport Faculté terrestre,,,False
+201,U6,Disparition,Transport Faculté terrestre,,,False
+201,U4,Droits de douane,Transport Faculté terrestre,,,False
+201,U3,Vol,Transport Faculté terrestre,,,False
+201,U2,chargement et déchargement,Transport Faculté terrestre,,,False
+203,U3,Prime adhésion,Risque P&I protection et d'indemnisation,,,False
+203,U5,Autres garanties,Risque P&I protection et d'indemnisation,,,False
+203,U1,Risque P&I (RC) affrété,Risque P&I protection et d'indemnisation,,,False
+203,U5,Autres garanties,Risque P&I protection et d'indemnisation,,,False
+203,U2,Risque Dommage au navire Propriété,Risque P&I protection et d'indemnisation,,,False
+203,U4,Autre affrété,Risque P&I protection et d'indemnisation,,,False
+203,U3,Risque de guerre propriété,Risque P&I protection et d'indemnisation,,,False
+203,U4,Autre propriété,Risque P&I protection et d'indemnisation,,,False
+203,U2,Risque Dommage au navire affrété,Risque P&I protection et d'indemnisation,,,False
+203,U3,Risque de guerre affrété,Risque P&I protection et d'indemnisation,,,False
+203,U1,Risque P&I (RC) propriété,Risque P&I protection et d'indemnisation,,,False
+204,U3,Cout d'avenant,Transport individuel Terrestre,,,False
+204,U2,Cout de contrat,Transport individuel Terrestre,,,False
+204,U1,Surprime,Transport individuel Terrestre,,,False
+204,U4,Prime du contrat,Transport individuel Terrestre,,,False
+204,U5,Frais divers,Transport individuel Terrestre,,,False
+204,U1,Droits de douane,Transport individuel Terrestre,,,False
+204,U6,Accidents Caractérisés,Transport individuel Terrestre,,,False
+204,U2,Chargements & déchargements,Transport individuel Terrestre,,,False
+204,U1,Risque de guerre,Transport individuel Terrestre,,,False
+204,U1,Vol,Transport individuel Terrestre,,,False
+204,U3,Frais exposé suite à un risque couvert,Transport individuel Terrestre,,,False
+204,U2,Pertes de poids et de quantités,Transport individuel Terrestre,,,False
+204,U1,Tous Risques,Transport individuel Terrestre,,,False
+204,U1,Manquant,Transport individuel Terrestre,,,False
+204,U1,Disparition,Transport individuel Terrestre,,,False
+205,U7,Le tronçon terrestre est couvert en Accidents Caractérisés,Police au voyage maritime et aérien,,,False
+205,U8,Le tronçon terrestre est couvert en Tous Risques,Police au voyage maritime et aérien,,,False
+205,U3,Surprime Tonnage,Police au voyage maritime et aérien,,,False
+205,U4,Surprime  Transbordement,Police au voyage maritime et aérien,,,False
+205,U1,Tous Risques,Police au voyage maritime et aérien,,,False
+205,U2,Pertes de poids et de quantités,Police au voyage maritime et aérien,,,False
+205,U3,Contribution avaries Communes,Police au voyage maritime et aérien,,,False
+205,U4,Frais Exposés,Police au voyage maritime et aérien,,,False
+205,U5,Frais divers,Police au voyage maritime et aérien,,,False
+205,U1,Accidents Caractérisés,Police au voyage maritime et aérien,,,False
+205,U1,FAP Sauf,Police au voyage maritime et aérien,,,False
+205,U1,Risque de guerre,Police au voyage maritime et aérien,,,False
+205,U2,Chargement et déchargement,Police au voyage maritime et aérien,,,False
+205,U3,Vol,Police au voyage maritime et aérien,,,False
+205,U4,Droits de douane,Police au voyage maritime et aérien,,,False
+205,U5,Manquant,Police au voyage maritime et aérien,,,False
+205,U6,Disparition,Police au voyage maritime et aérien,,,False
+205,U1,Surprime Âge,Police au voyage maritime et aérien,,,False
+205,U2,Surprime Nationalité,Police au voyage maritime et aérien,,,False
+209,U2,Frais de gestion d'assurance,Assurance dommage corps aéronefs (Aviation),,,False
+209,U1,Frais de gestion de coassurance,Assurance dommage corps aéronefs (Aviation),,,False
+209,U1,Commission d'appérition,Assurance dommage corps aéronefs (Aviation),,,False
+209,U1,Frais de gestion de réassurance,Assurance dommage corps aéronefs (Aviation),,,False
+209,U3,Perte totale uniquement (Total Loss Only),Assurance dommage corps aéronefs (Aviation),,,False
+209,U1,Les risques de guerre et risques assimilés,Assurance dommage corps aéronefs (Aviation),,,False
+209,U2,Perte totale uniquement (Total Loss Only),Assurance dommage corps aéronefs (Aviation),,,False
+209,U1,Assurance Dommage,Assurance dommage corps aéronefs (Aviation),,,False
+210,U6,Vol des marchandises à la suite d’un accident couvert ou avec le véhicule,Transport de marchandises par voie terrestre,,,False
+210,U5,chargement et de déchargement,Transport de marchandises par voie terrestre,,,False
+210,U1,Accident caractérisé,Transport de marchandises par voie terrestre,,,False
+210,U2,Cout d'avenat,Transport de marchandises par voie terrestre,,,False
+210,U1,Cout du contrat,Transport de marchandises par voie terrestre,,,False
+210,U4,Tous risques,Transport de marchandises par voie terrestre,,,False
+211,U1,Autre frais,Assurance aéronefs,,,False
+211,U2,Perte totale uniquement (Total Loss Only),Assurance aéronefs,,,False
+211,U1,Les risques de guerre et risques assimilés,Assurance aéronefs,,,False
+211,U1,Risques Corps Pièces Détachées,Assurance aéronefs,,,False
+211,U1,Assurance Dommage,Assurance aéronefs,,,False
+211,U3,Perte totale uniquement (Total Loss Only),Assurance aéronefs,,,False
+221,U1,Tous risques,Transport Corps (individuel),,,False
+221,U2,F.A.P Sauf,Transport Corps (individuel),,,False
+221,U1,GEMP,Transport Corps (individuel),,,False
+221,U4,Tous Dommages Confondus,Transport Corps (individuel),,,False
+221,U4,Autre,Transport Corps (individuel),,,False
+221,U14,Autre,Transport Corps (individuel),,,False
+221,U12,Recours des tiers,Transport Corps (individuel),,,False
+221,U3,les frais raisonnablement exposés,Transport Corps (individuel),,,False
+221,U2,Les frais de procédure et de justice,Transport Corps (individuel),,,False
+221,U1,Les indemnités d'assistance,Transport Corps (individuel),,,False
+221,U2,Bonne arrivée,Transport Corps (individuel),,,False
+221,U1,Corps et appareils moteurs,Transport Corps (individuel),,,False
+221,U3,Dommages immatériels,Transport Corps (individuel),,,False
+221,U2,Dommages matériels,Transport Corps (individuel),,,False
+221,U1,Dommages Corporels,Transport Corps (individuel),,,False
+221,U3,Dommages immatériels,Transport Corps (individuel),,,False
+221,U2,Dommages matériels,Transport Corps (individuel),,,False
+221,U1,Dommages Corporels,Transport Corps (individuel),,,False
+221,U11,Avaries Communes,Transport Corps (individuel),,,False
+221,U1,Armement  special et Materiel de Pêche,Transport Corps (individuel),,,False
+221,U4,Indemnité journaliére,Transport Corps (individuel),,,False
+221,U3,Frais médicaux,Transport Corps (individuel),,,False
+221,U2,incapacité,Transport Corps (individuel),,,False
+221,U1,Décès,Transport Corps (individuel),,,False
+221,U10,Frais de retirement,Transport Corps (individuel),,,False
+221,U9,Les dommages et pertes subis par les pièces,Transport Corps (individuel),,,False
+221,U13,Objets remisés à terre,Transport Corps (individuel),,,False
+221,U7,Vol,Transport Corps (individuel),,,False
+221,U6,Bonne arrivée,Transport Corps (individuel),,,False
+221,U4,Perte totale et cas de délaissement,Transport Corps (individuel),,,False
+221,U3,F.A.P Absolument,Transport Corps (individuel),,,False
+222,U13,Autre,Transport Corps (collectif),,,False
+222,U2,Bonne arrivée,Transport Corps (collectif),,,False
+222,U11,Avaries Communes,Transport Corps (collectif),,,False
+222,U3,Dommages immatériels,Transport Corps (collectif),,,False
+222,U2,Dommages matériels,Transport Corps (collectif),,,False
+222,U1,GEMP,Transport Corps (collectif),,,False
+222,U1,Corps et appareils moteurs,Transport Corps (collectif),,,False
+222,U1,Armement  special et Materiel de Pêche,Transport Corps (collectif),,,False
+222,U4,Indemnité journaliére,Transport Corps (collectif),,,False
+222,U3,Frais médicaux,Transport Corps (collectif),,,False
+222,U2,incapacité,Transport Corps (collectif),,,False
+222,U1,Décès,Transport Corps (collectif),,,False
+222,U3,les frais raisonnablement exposés,Transport Corps (collectif),,,False
+222,U2,Les frais de procédure et de justice,Transport Corps (collectif),,,False
+222,U1,Les indemnités d'assistance,Transport Corps (collectif),,,False
+222,U1,Dommage Corporel,Transport Corps (collectif),,,False
+222,U10,Frais de retirement,Transport Corps (collectif),,,False
+222,U9,Les dommages et pertes subis par les pièces,Transport Corps (collectif),,,False
+222,U8,Objets remisés à terre,Transport Corps (collectif),,,False
+222,U7,Vol,Transport Corps (collectif),,,False
+222,U6,Bonne arrivée,Transport Corps (collectif),,,False
+222,U4,Perte totale et cas de délaissement,Transport Corps (collectif),,,False
+222,U3,F.A.P Absolument,Transport Corps (collectif),,,False
+222,U2,F.A.P Sauf,Transport Corps (collectif),,,False
+222,U1,Tous risques,Transport Corps (collectif),,,False
+222,U1,Cout de l'adhésion,Transport Corps (collectif),,,False
+222,U4,Tous Dommages confondus,Transport Corps (collectif),,,False
+222,U3,Dommages immatériels,Transport Corps (collectif),,,False
+222,U2,Dommages matériels,Transport Corps (collectif),,,False
+222,U1,Dommage Corporel,Transport Corps (collectif),,,False
+222,U1,Frais de quittance,Transport Corps (collectif),,,False
+222,U12,Recours des tiers,Transport Corps (collectif),,,False
+222,U4,Autre,Transport Corps (collectif),,,False
+301,U2,Cout du contrat,Assistance en voyage,,,False
+301,U1,PRISE EN CHARGE DES ACHATS D'URGENCE,Assistance en voyage,,,False
+301,U1,Frais de recherche (frais de sauvetage),Assistance en voyage,,,False
+301,U2,SURBOOKING,Assistance en voyage,,,False
+301,U3,SCREAMING,Assistance en voyage,,,False
+301,U5,Autres,Assistance en voyage,,,False
+301,U2,RAPATRIEMENT DES ACCOMPAGNANTS,Assistance en voyage,,,False
+301,U16,Retour impossible,Assistance en voyage,,,False
+301,U17,Frais hôteliers suite à mise en quarantaine,Assistance en voyage,,,False
+301,U18,Prise en charge d’un forfait téléphonique local,Assistance en voyage,,,False
+301,U19,Soutien psychologique suite à mise en quarantaine,Assistance en voyage,,,False
+301,U20,Valise de secours,Assistance en voyage,,,False
+301,U21,Aide-ménagère,Assistance en voyage,,,False
+301,U22,Livraison de courses ménagères,Assistance en voyage,,,False
+301,U23,Soutien psychologique suite à rapatriement,Assistance en voyage,,,False
+301,U1,Téléconsultation avant le départ,Assistance en voyage,,,False
+301,U2,Informations,Assistance en voyage,,,False
+301,U3,Accompagnement des Enfants DE MOINS DE 15 ANS,Assistance en voyage,,,False
+301,U13,TRANSMISSION DE MESSAGES URGENTS,Assistance en voyage,,,False
+301,U14,SECOURS SUR PISTE,Assistance en voyage,,,False
+301,U15,ENVOI D'UN COLLABORATEUR DE REMPLACEMENT,Assistance en voyage,,,False
+301,U1,RAPATRIEMENT DE CORPS,Assistance en voyage,,,False
+301,U1,RETOUR ANTICIPÉ,Assistance en voyage,,,False
+301,U1,AVANCE DE LA CAUTION,Assistance en voyage,,,False
+301,301TMD,TRANSFERT MÉDICALISÉ,Assistance en voyage,,,False
+301,301RDA,RAPATRIEMENT DES ACCOMPAGNANTS,Assistance en voyage,,,False
+301,U2,PRISE EN CHARGE DES HONORAIRES D'AVOCAT,Assistance en voyage,,,False
+301,U1,ACHEMINEMENT DE DOSSIERS,Assistance en voyage,,,False
+301,U2,ACHEMINEMENT DE MÉDICAMENTS,Assistance en voyage,,,False
+301,U3,"ACHEMINEMENT DE LUNETTES, DE LENTILLES OU DE PROTH",Assistance en voyage,,,False
+301,U2,PRISE EN CHARGE DE LA VALEUR DE REMBOURSEMENT,Assistance en voyage,,,False
+301,U4,COVID 19,Assistance en voyage,,,False
+301,U1,Prime,Assistance en voyage,,,False
+301,U5,PRÉSENCE D'UN PROCHE EN CAS D'HOSPITALISATION,Assistance en voyage,,,False
+301,U6,PRISE EN CHARGE DES FRAIS D’HÉBERGEMENT DU PROCHE,Assistance en voyage,,,False
+301,U4,GARDE DES ENFANTS DE MOINS DE 15 ANS,Assistance en voyage,,,False
+301,U7,FRAIS DE PROLONGATION DE SÉJOUR DE L'ASSURÉ,Assistance en voyage,,,False
+301,U8,TRANSPORT DES ANIMAUX DOMESTIQUES,Assistance en voyage,,,False
+301,U9,FRAIS MÉDICAUX,Assistance en voyage,,,False
+301,U10,FRAIS DENTAIRES D’URGENCE,Assistance en voyage,,,False
+301,U11,AVANCE SUR FRAIS D’HOSPITALISATION,Assistance en voyage,,,False
+301,U12,CHAUFFEUR DE REMPLACEMENT,Assistance en voyage,,,False
+301,U1,ASSISTANCE AUX DÉMARCHES ADMINISTRATIVES,Assistance en voyage,,,False
+301,U2,PRISE EN CHARGE DES COÛTS DE RÉFECTION DU PASSEPOR,Assistance en voyage,,,False
+301,U3,AVANCE DE FRAIS SUR PLACE,Assistance en voyage,,,False
+301,U1,PRISE EN CHARGE DES FRAIS D’HÉBERGEMENT ET DE REPA,Assistance en voyage,,,False
+301,U1,REMBOURSEMENT DES FRAIS NON RÉCUPÉRABLES,Assistance en voyage,,,False
+305,U9,FRAIS MÉDICAUX,Assistance en voyage Collectif,,,False
+305,U10,FRAIS DENTAIRES D’URGENCE,Assistance en voyage Collectif,,,False
+305,U11,AVANCE SUR FRAIS D’HOSPITALISATION,Assistance en voyage Collectif,,,False
+305,U12,CHAUFFEUR DE REMPLACEMENT,Assistance en voyage Collectif,,,False
+305,U13,TRANSMISSION DE MESSAGES URGENTS,Assistance en voyage Collectif,,,False
+305,U14,SECOURS SUR PISTE,Assistance en voyage Collectif,,,False
+305,U15,ENVOI D'UN COLLABORATEUR DE REMPLACEMENT,Assistance en voyage Collectif,,,False
+305,U16,Retour impossible,Assistance en voyage Collectif,,,False
+305,U17,Frais hôteliers suite à mise en quarantaine,Assistance en voyage Collectif,,,False
+305,U4,COVID 19,Assistance en voyage Collectif,,,False
+305,U1,Prime,Assistance en voyage Collectif,,,False
+305,U2,Cout du contrat,Assistance en voyage Collectif,,,False
+305,U1,Téléconsultation avant le départ,Assistance en voyage Collectif,,,False
+305,U2,Informations,Assistance en voyage Collectif,,,False
+305,301TMD,TRANSFERT MÉDICALISÉ,Assistance en voyage Collectif,,,False
+305,301RDA,RAPATRIEMENT DES ACCOMPAGNANTS,Assistance en voyage Collectif,,,False
+305,U3,Accompagnement des Enfants DE MOINS DE 15 ANS,Assistance en voyage Collectif,,,False
+305,U4,GARDE DES ENFANTS DE MOINS DE 15 ANS,Assistance en voyage Collectif,,,False
+305,U5,PRÉSENCE D'UN PROCHE EN CAS D'HOSPITALISATION,Assistance en voyage Collectif,,,False
+305,U6,PRISE EN CHARGE DES FRAIS D’HÉBERGEMENT DU PROCHE,Assistance en voyage Collectif,,,False
+305,U7,FRAIS DE PROLONGATION DE SÉJOUR DE L'ASSURÉ,Assistance en voyage Collectif,,,False
+305,U8,TRANSPORT DES ANIMAUX DOMESTIQUES,Assistance en voyage Collectif,,,False
+305,U1,Frais de recherche (frais de sauvetage),Assistance en voyage Collectif,,,False
+305,U2,SURBOOKING,Assistance en voyage Collectif,,,False
+305,U3,SCREAMING,Assistance en voyage Collectif,,,False
+305,U5,Autres,Assistance en voyage Collectif,,,False
+305,U2,PRISE EN CHARGE DE LA VALEUR DE REMBOURSEMENT,Assistance en voyage Collectif,,,False
+305,U18,Prise en charge d’un forfait téléphonique local,Assistance en voyage Collectif,,,False
+305,U19,Soutien psychologique suite à mise en quarantaine,Assistance en voyage Collectif,,,False
+305,U20,Valise de secours,Assistance en voyage Collectif,,,False
+305,U21,Aide-ménagère,Assistance en voyage Collectif,,,False
+305,U22,Livraison de courses ménagères,Assistance en voyage Collectif,,,False
+305,U23,Soutien psychologique suite à rapatriement,Assistance en voyage Collectif,,,False
+305,U1,RAPATRIEMENT DE CORPS,Assistance en voyage Collectif,,,False
+305,U2,RAPATRIEMENT DES ACCOMPAGNANTS,Assistance en voyage Collectif,,,False
+305,U1,RETOUR ANTICIPÉ,Assistance en voyage Collectif,,,False
+305,U1,AVANCE DE LA CAUTION,Assistance en voyage Collectif,,,False
+305,U2,PRISE EN CHARGE DES HONORAIRES D'AVOCAT,Assistance en voyage Collectif,,,False
+305,U1,ACHEMINEMENT DE DOSSIERS,Assistance en voyage Collectif,,,False
+305,U2,ACHEMINEMENT DE MÉDICAMENTS,Assistance en voyage Collectif,,,False
+305,U3,"ACHEMINEMENT DE LUNETTES, DE LENTILLES OU DE PROTH",Assistance en voyage Collectif,,,False
+305,U1,ASSISTANCE AUX DÉMARCHES ADMINISTRATIVES,Assistance en voyage Collectif,,,False
+305,U2,PRISE EN CHARGE DES COÛTS DE RÉFECTION DU PASSEPOR,Assistance en voyage Collectif,,,False
+305,U3,AVANCE DE FRAIS SUR PLACE,Assistance en voyage Collectif,,,False
+305,U1,PRISE EN CHARGE DES FRAIS D’HÉBERGEMENT ET DE REPA,Assistance en voyage Collectif,,,False
+305,U1,PRISE EN CHARGE DES ACHATS D'URGENCE,Assistance en voyage Collectif,,,False
+305,U1,REMBOURSEMENT DES FRAIS NON RÉCUPÉRABLES,Assistance en voyage Collectif,,,False
+310,U1,Conseil juridique par telephone,Protection juridique,,,False
+310,U2,Aide à la résolution des litiges,Protection juridique,,,False
+310,U3,Information juridique par internet,Protection juridique,,,False
+310,U3,Prime du contrat,Protection juridique,,,False
+310,U1,Cout du contrat,Protection juridique,,,False
+310,U2,Cout d'avenant,Protection juridique,,,False
+310,U4,Autres (Extension de garanties ),Protection juridique,,,False
+311,U1,AVANCE DE LA CAUTION,Assistance Carte Bancaire,,,False
+311,U2,PRISE EN CHARGE DES HONORAIRES D'AVOCAT,Assistance Carte Bancaire,,,False
+311,U3,AVANCE DE FRAIS SUR PLACE,Assistance Carte Bancaire,,,False
+311,U1,PRISE EN CHARGE DES FRAIS D’HÉBERGEMENT ET DE REPA,Assistance Carte Bancaire,,,False
+311,U1,PRISE EN CHARGE DES ACHATS D'URGENCE,Assistance Carte Bancaire,,,False
+311,U1,REMBOURSEMENT DES FRAIS NON RÉCUPÉRABLES,Assistance Carte Bancaire,,,False
+311,U2,Annulation de voyage en cas de deces accident corp,Assistance Carte Bancaire,,,False
+311,U1,PRISE EN CHARGE DE LA VALEUR DE REMBOURSEMENT,Assistance Carte Bancaire,,,False
+311,U1,Assitance en Tunisie,Assistance Carte Bancaire,,,False
+311,U1,Assistance habitation,Assistance Carte Bancaire,,,False
+311,U1,Transport sanitaire,Assistance Carte Bancaire,,,False
+311,U1,Service d'information en cas de retard de livraison de bagage,Assistance Carte Bancaire,,,False
+311,U1,Utilisation frauduleuse de la carte bancaire par s,Assistance Carte Bancaire,,,False
+311,U2,AVANCE DE FOND,Assistance Carte Bancaire,,,False
+311,U1,Remplacement du mobile en cas de vol,Assistance Carte Bancaire,,,False
+311,U1,Deces accidentel du beneficiaire,Assistance Carte Bancaire,,,False
+311,U2,invalidite permenante du beneficiaire,Assistance Carte Bancaire,,,False
+311,U1,COVID 19,Assistance Carte Bancaire,,,False
+311,U1,Autres,Assistance Carte Bancaire,,,False
+311,U1,Prime d'adhesion,Assistance Carte Bancaire,,,False
+311,U2,Cout du contrat,Assistance Carte Bancaire,,,False
+311,U3,Cout d'avenant,Assistance Carte Bancaire,,,False
+311,U2,Accompagnement du beneficiaire par un proche paren,Assistance Carte Bancaire,,,False
+311,U3,Rapatriement des proche parents beneficiaires,Assistance Carte Bancaire,,,False
+311,U4,Prolongation du séjour d'un proche parent béneficiaire,Assistance Carte Bancaire,,,False
+311,U5,prolongation du séjour d'un béneificaire,Assistance Carte Bancaire,,,False
+311,U6,Billet de visite d'un proche parent,Assistance Carte Bancaire,,,False
+311,U7,Retour au domicile en Tunisie du beneficiaire de moin de 15 ans,Assistance Carte Bancaire,,,False
+311,U8,FRAIS MÉDICAUX et d'hospitalisation d'urgence à l'étranger,Assistance Carte Bancaire,,,False
+311,U9,FRAIS MÉDICAUX et d'hospitalisation d'urgence à l'étranger,Assistance Carte Bancaire,,,False
+311,U10,TRANSMISSION DE MESSAGES URGENTS,Assistance Carte Bancaire,,,False
+311,U11,Envoi de mecdicaments à l'etranger,Assistance Carte Bancaire,,,False
+311,U12,Mise à disposition d'un billet aller retour,Assistance Carte Bancaire,,,False
+311,U13,RAPATRIEMENT DE CORPS EN CAS DE DECES,Assistance Carte Bancaire,,,False
+311,U14,Presence sur le lieu du deces,Assistance Carte Bancaire,,,False
+311,U15,PRISE EN CHARGE DES HONORAIRES D'AVOCAT,Assistance Carte Bancaire,,,False
+311,U16,AVANCE DE LA CAUTION PENALE,Assistance Carte Bancaire,,,False
+311,U17,Informations et conseil medicaux,Assistance Carte Bancaire,,,False
+311,U2,Indemnisation en cas de perte de bagage et d'effet personnels,Assistance Carte Bancaire,,,False
+311,U3,Indemnisation pour les objets de valeurs,Assistance Carte Bancaire,,,False
+311,U4,"Indemnisation pour les objets perdus, volés ou deteriorés en cours du voyage",Assistance Carte Bancaire,,,False
+311,U5,Indemnisation en cas de livraison de bagage,Assistance Carte Bancaire,,,False
+311,U22,FRAIS DE PROLONGATION DE SÉJOUR DE L'ASSURÉ,Assistance Carte Bancaire,,,False
+311,U6,Indemnité en cas de retard de vol,Assistance Carte Bancaire,,,False
+311,U12,Prise en charge d’un forfait téléphonique local,Assistance Carte Bancaire,,,False
+311,U13,Soutien psychologique suite à mise en quarantaine,Assistance Carte Bancaire,,,False
+311,U14,Valise de secours,Assistance Carte Bancaire,,,False
+311,U15,Aide-ménagère,Assistance Carte Bancaire,,,False
+311,U16,Livraison de courses ménagères,Assistance Carte Bancaire,,,False
+311,U17,RAPATRIEMENT DES ACCOMPAGNANTS,Assistance Carte Bancaire,,,False
+311,U18,GARDE DES ENFANTS DE MOINS DE 15 ANS,Assistance Carte Bancaire,,,False
+311,U19,TRANSPORT DES ANIMAUX DOMESTIQUES,Assistance Carte Bancaire,,,False
+311,U20,Accompagnement des Enfants DE MOINS DE 15 ANS,Assistance Carte Bancaire,,,False
+311,U21,Soutien psychologique suite à rapatriement,Assistance Carte Bancaire,,,False
+311,U1,RAPATRIEMENT DES ACCOMPAGNANTS,Assistance Carte Bancaire,,,False
+311,U2,RAPATRIEMENT DE CORPS,Assistance Carte Bancaire,,,False
+311,U1,RETOUR ANTICIPÉ,Assistance Carte Bancaire,,,False
+311,U1,ACHEMINEMENT DE DOSSIERS,Assistance Carte Bancaire,,,False
+311,U2,ACHEMINEMENT DE MÉDICAMENTS,Assistance Carte Bancaire,,,False
+311,U3,"ACHEMINEMENT DE LUNETTES, DE LENTILLES OU DE PROTH",Assistance Carte Bancaire,,,False
+311,U1,Téléconsultation avant le départ,Assistance Carte Bancaire,,,False
+311,U2,Informations,Assistance Carte Bancaire,,,False
+311,U1,TRANSFERT MÉDICALISÉ,Assistance Carte Bancaire,,,False
+311,U2,PRÉSENCE D'UN PROCHE EN CAS D'HOSPITALISATION,Assistance Carte Bancaire,,,False
+311,U3,PRISE EN CHARGE DES FRAIS D’HÉBERGEMENT DU PROCHE,Assistance Carte Bancaire,,,False
+311,U4,FRAIS MÉDICAUX,Assistance Carte Bancaire,,,False
+311,U5,FRAIS DENTAIRES D’URGENCE,Assistance Carte Bancaire,,,False
+311,U6,AVANCE SUR FRAIS D’HOSPITALISATION,Assistance Carte Bancaire,,,False
+311,U7,CHAUFFEUR DE REMPLACEMENT,Assistance Carte Bancaire,,,False
+311,U8,TRANSMISSION DE MESSAGES URGENTS,Assistance Carte Bancaire,,,False
+311,U9,ENVOI D'UN COLLABORATEUR DE REMPLACEMENT,Assistance Carte Bancaire,,,False
+311,U10,Retour impossible,Assistance Carte Bancaire,,,False
+311,U11,Frais hôteliers suite à mise en quarantaine,Assistance Carte Bancaire,,,False
+311,U1,ASSISTANCE AUX DÉMARCHES ADMINISTRATIVES,Assistance Carte Bancaire,,,False
+311,U2,PRISE EN CHARGE DES COÛTS DE RÉFECTION DU PASSEPOR,Assistance Carte Bancaire,,,False
+314,U1,Cout d'adhesion,GAV Collectif,,,False
+314,U1,Déces,GAV Collectif,,,False
+314,U2,Incapacité,GAV Collectif,,,False
+314,U4,frais de quittance,GAV Collectif,,,False
+314,U4,Indemnité Journalière,GAV Collectif,,,False
+314,U5,Assistance en Tunisie,GAV Collectif,,,False
+314,U3,Frais Médicaux,GAV Collectif,,,False
+321,U1,Décès,GAV,,,False
+321,U2,Incapacité,GAV,,,False
+321,U6,Assistance à la personne,GAV,,,False
+321,U4,Assistance en Tunisie,GAV,,,False
+321,U5,Indemnité journalière,GAV,,,False
+321,U3,Frais médicaux,GAV,,,False
+330,U3,Vol,RC,,,False
+330,U1,Dommages corporels,RC,,,False
+330,U3,Dommages matériels,RC,,,False
+330,U2,Dommages immatériels consécutifs,RC,,,False
+330,U5,Tous dommages confondus,RC,,,False
+330,U21,Essais,RC,,,False
+330,U1,Dommages corporels,RC,,,False
+330,U3,Dommages matériels,RC,,,False
+330,U2,Dommages immatériels consécutifs,RC,,,False
+330,U5,Tous Dommages confondus,RC,,,False
+330,U1,Dommages corporels,RC,,,False
+330,U3,Dommages matériels,RC,,,False
+330,U2,Dommages immatériels consécutifs,RC,,,False
+330,U5,Tous Dommages confondus,RC,,,False
+330,U1,Décés,RC,,,False
+330,U2,Incapacité,RC,,,False
+330,U3,Frais médicaux,RC,,,False
+330,U1,Dommages corporels,RC,,,False
+330,U3,Dommages matériels,RC,,,False
+330,U2,Dommages immatériels consécutifs,RC,,,False
+330,U3,Prime de contrat,RC,,,False
+330,U4,Défense et recours,RC,,,False
+330,U16,Intoxication Alimentaire,RC,,,False
+330,U3,RC Parking,RC,,,False
+330,U1,Cyber risque,RC,,,False
+330,U15,Pollution accidentelle,RC,,,False
+330,U9,Vol par les préposées au préjudice des tiers,RC,,,False
+330,U17,Garantie subséquente,RC,,,False
+330,U2,Reprise du passé,RC,,,False
+330,U10,"Incendie, explosion, fumée, dégât des eaux",RC,,,False
+330,U13,Limite supplémentaire spéciale pour les Administrateurs indépendants,RC,,,False
+330,U7,Frais de défense pour dommage corporel et matériel,RC,,,False
+330,U13,Autre,RC,,,False
+330,U1,Soins d’urgence en cas d’Accident,RC,,,False
+330,U2,Transport Sanitaire ou rapatriement,RC,,,False
+330,U3,Déplacement et Séjour d’un membre de la famille,RC,,,False
+330,U4,Assistance psychologique en cas d’accident ou décès d’un parent,RC,,,False
+330,U14,Kinésithérapeute en cas de traumatisme,RC,,,False
+330,U5,Tous Dommages confondus,RC,,,False
+330,U1,Les dommages subis par la marchandise transportée,RC,,,False
+330,U3,Erreur de dépotage,RC,,,False
+330,U2,Vol de la marchandise transportée,RC,,,False
+330,U5,RC manutention,RC,,,False
+330,U1,Dommages corporels,RC,,,False
+330,U3,Dommages matériels,RC,,,False
+330,U2,Dommages immatériels consécutifs,RC,,,False
+330,U5,Tous Dommages confondus,RC,,,False
+330,U1,Dommages corporels,RC,,,False
+330,U3,Dommages matériels,RC,,,False
+330,U2,Dommages immatériels consécutifs,RC,,,False
+330,U5,Frais d'enquête,RC,,,False
+330,U18,Frais de crise suite à l'action d'une Autorité Administrative,RC,,,False
+330,U19,Frais de construction d'une caution pénale ou civile,RC,,,False
+330,U6,Frais de restauration d'image,RC,,,False
+330,U5,Tous dommages confondus,RC,,,False
+330,U1,Dommages corporels,RC,,,False
+330,U3,Dommages matériels,RC,,,False
+330,U2,Dommages immatériels consécutifs,RC,,,False
+330,U5,Tous Dommages confondus,RC,,,False
+330,U4,Frais de retrait,RC,,,False
+330,U1,Dommages corporels,RC,,,False
+330,U3,Dommages matériels,RC,,,False
+330,U2,Dommages immatériels consécutifs,RC,,,False
+330,U5,Tous Dommages confondus,RC,,,False
+330,U1,Dommages corporels,RC,,,False
+330,U3,Dommages matériels,RC,,,False
+330,U2,Dommages immatériels consécutifs,RC,,,False
+330,U5,Tous Dommages confondus,RC,,,False
+330,U1,Dommages corporels,RC,,,False
+330,U3,Dommages matériels,RC,,,False
+330,U2,Dommages immatériels consécutifs,RC,,,False
+330,U5,Tous Dommages confondus,RC,,,False
+330,U21,Espèces et valeurs en Coffre-fort,RC,,,False
+330,U13,Hors Coffre-fort,RC,,,False
+330,U20,Vol dans les vestiaires,RC,,,False
+330,U11,Incendie et Explosion,RC,,,False
+330,U17,Dégât des eaux et fluides,RC,,,False
+330,U1,Fumée,RC,,,False
+330,U16,Vol de la marchandise,RC,,,False
+330,U14,Effets des voyageurs,RC,,,False
+330,U15,Bagages confiés ou en consigne,RC,,,False
+330,U2,Détérioration de la marchandise réfrigérée,RC,,,False
+330,U1,Dommages corporels,RC,,,False
+330,U4,Dommages corporels et immateriels consécutifs,RC,,,False
+330,U5,Tous Dommages confondus,RC,,,False
+331,U3,Cout d'avenant,RC collectif,,,False
+331,U3,Frais médicaux,RC collectif,,,False
+331,U4,indemnité journalière,RC collectif,,,False
+331,U1,Assistance psychologique en cas d’accident ou décè,RC collectif,,,False
+331,U4,Déplacement et Séjour d’un membre de la famille,RC collectif,,,False
+331,U5,Kinésithérapeute en cas de traumatisme,RC collectif,,,False
+331,U6,Soins d’urgence en cas d’Accident,RC collectif,,,False
+331,U7,Transport Sanitaire ou rapatriement,RC collectif,,,False
+331,U1,Intoxication Alimentaire,RC collectif,,,False
+331,U2,Pollution accidentelle,RC collectif,,,False
+331,U3,RC Parking,RC collectif,,,False
+331,U4,Défense et recours,RC collectif,,,False
+331,U5,Vol par les préposées au préjudice des tiers,RC collectif,,,False
+331,U6,"Incendie, explosion, fumée, dégât des eaux",RC collectif,,,False
+331,U7,Garantie subséquente,RC collectif,,,False
+331,U8,Reprise du passée,RC collectif,,,False
+331,U9,Frais d'enquête,RC collectif,,,False
+331,U2,Prime de contrat,RC collectif,,,False
+331,EXPDC,Dommage Corporels,RC collectif,,,False
+331,U2,Dommages Matériels,RC collectif,,,False
+331,U3,Dommages Immatériels Consécutifs,RC collectif,,,False
+331,U4,Tous Dommages Confondus,RC collectif,,,False
+331,U12,Autre,RC collectif,,,False
+331,EXPDC,Dommage Corporels,RC collectif,,,False
+331,U2,Dommages Matériels,RC collectif,,,False
+331,U3,Dommages Immatériels Consécutifs,RC collectif,,,False
+331,U4,Tous Dommages Confondus,RC collectif,,,False
+331,U1,Décés,RC collectif,,,False
+331,U2,Incapacité,RC collectif,,,False
+331,U10,Frais de restauration d'image,RC collectif,,,False
+331,U11,Cyber risque,RC collectif,,,False
+335,U1,Dommages immatériels consécutifs,RC Décentralisé,,,False
+335,U8,Aucune garantie n'est présente sur le bien Assuré,RC Décentralisé,,,False
+335,U3,Tous Dommages confondus,RC Décentralisé,,,False
+335,U1,Vol,RC Décentralisé,,,False
+335,U1,Décés,RC Décentralisé,,,False
+335,U2,Incapacité,RC Décentralisé,,,False
+335,U3,Frais médicaux,RC Décentralisé,,,False
+335,U1,Cout du contrat,RC Décentralisé,,,False
+335,U2,Cout d'avenant,RC Décentralisé,,,False
+335,U3,Prime du contrat,RC Décentralisé,,,False
+335,U4,Intoxication Alimentaire,RC Décentralisé,,,False
+335,U6,Dommages corporels et materiels,RC Décentralisé,,,False
+335,U7,Tous dommages corporels matériels et immatériels consécutifs,RC Décentralisé,,,False
+335,U4,Décès,RC Décentralisé,,,False
+335,U5,Incapacite,RC Décentralisé,,,False
+335,U6,Frais medicaux,RC Décentralisé,,,False
+335,U1,Décés,RC Décentralisé,,,False
+335,U2,Incapacité,RC Décentralisé,,,False
+335,U3,Frais médicaux,RC Décentralisé,,,False
+335,U1,Cout du contrat,RC Décentralisé,,,False
+335,U2,Cout d'avenant,RC Décentralisé,,,False
+335,U3,Prime du contrat,RC Décentralisé,,,False
+335,U4,Espèces et Valeurs,RC Décentralisé,,,False
+335,U5,Archives,RC Décentralisé,,,False
+335,U1,Tous dommages corporels matériels et immatériels consécutifs,RC Décentralisé,,,False
+335,U2,Tous Dommages Corporels,RC Décentralisé,,,False
+335,U1,Dommages corporels,RC Décentralisé,,,False
+335,U2,Dommages matériels,RC Décentralisé,,,False
+335,U3,Tous dommages corporels matériels et immatériels consécutifs,RC Décentralisé,,,False
+335,U4,Intoxication Alimentaire,RC Décentralisé,,,False
+335,U6,Dommages corporels et materiels,RC Décentralisé,,,False
+335,U1,Dommages immatériels consécutifs,RC Décentralisé,,,False
+335,U2,Dommages corporels et materiels,RC Décentralisé,,,False
+335,U3,Tous dommages corporels matériels et immatériels consécutifs,RC Décentralisé,,,False
+335,U1,Vol,RC Décentralisé,,,False
+335,U1,Dommages corporels,RC Décentralisé,,,False
+335,U2,Dommages matériels,RC Décentralisé,,,False
+335,U3,Tous Dommages confondus,RC Décentralisé,,,False
+335,U2,Dommages corporels et materiels,RC Décentralisé,,,False
+340,VOL,Vol,VOL,,,False
+340,HEXP,Honoraire d'expert,VOL,,,False
+340,DETFON,Détournement de fonds,VOL,,,False
+340,DETIMM,Détériorations immobilières,VOL,,,False
+340,DETMOB,Détériorations mobilières,VOL,,,False
+340,U3,Cout d'avenat,VOL,,,False
+340,FP,Frais et Perte,VOL,,,False
+340,U2,Cout contrat,VOL,,,False
+340,Autre,Autre,VOL,,,False
+340,DISINE,Disparitions inexpliquées,VOL,,,False
+340,ESPCA,Especes en caisse,VOL,,,False
+340,DMCB,Dommages matériels causés aux bien,VOL,,,False
+340,COCOFF,Contenue Coffres-Fort,VOL,,,False
+340,DETINS,Deterioration des Installations d'alarme,VOL,,,False
+340,DETCH,Deterioration Chambres-Fort et coffre_fort,VOL,,,False
+340,TAXDOU,Taxes Douanieres,VOL,,,False
+340,UTCART,Utilisation Frauduleuse des cartes,VOL,,,False
+340,TRANSF,Transport de fond,VOL,,,False
+340,GEMP,Vol suite à GEMP,VOL,,,False
+340,FAUXVA,Faux et falsification des valeurs,VOL,,,False
+340,EXVOL,Extension _VOL,VOL,,,False
+350,U14,Frais et perte,Bris de machines,,,False
+350,U4,Dommages aux existants,Bris de machines,,,False
+350,U3,Pertes financiéres,Bris de machines,,,False
+350,U1,Bris de  Machines,Bris de machines,,,False
+350,U12,GEMP,Bris de machines,,,False
+350,U11,Vol,Bris de machines,,,False
+350,U10,Tremblement de terre,Bris de machines,,,False
+350,U9,Incendie,Bris de machines,,,False
+350,U8,Détérioration des marchandises en entrepots frigorifriques suite bris de machines,Bris de machines,,,False
+350,U7,Honoraires expert,Bris de machines,,,False
+350,U13,Briques réfractaires,Bris de machines,,,False
+350,U5,Renonciation a recours,Bris de machines,,,False
+350,U6,Socles et Fondation,Bris de machines,,,False
+351,U3,Prime,Tous Risques Ordinateur,,,False
+351,U6,Tremblement de terre,Tous Risques Ordinateur,,,False
+351,U5,Cyber risque,Tous Risques Ordinateur,,,False
+351,U4,Honoraires expert,Tous Risques Ordinateur,,,False
+351,U1,Dommages matériels,Tous Risques Ordinateur,,,False
+351,U2,Cout d'avenant,Tous Risques Ordinateur,,,False
+351,U1,Cout du contrat,Tous Risques Ordinateur,,,False
+351,U2,Perte de données et support,Tous Risques Ordinateur,,,False
+351,U1,GEMP,Tous Risques Ordinateur,,,False
+351,U3,Frais supplémentaires,Tous Risques Ordinateur,,,False
+360,U1,Bris de Glaces,Bris de glaces,,,False
+360,U6,Frais  et Perte (Formile Packs),Bris de glaces,,,False
+360,U2,Extension Bris de Galce,Bris de glaces,,,False
+360,U1,Cout contrat,Bris de glaces,,,False
+360,U2,Cout d'avenat,Bris de glaces,,,False
+360,U10,Extension Bris de Galce (Formule Packs),Bris de glaces,,,False
+360,U4,Frais  et Perte,Bris de glaces,,,False
+360,U5,Honoraire expert,Bris de glaces,,,False
+360,U7,Extension Bris de Glace,Bris de glaces,,,False
+360,U8,Risque de responsabilité,Bris de glaces,,,False
+360,U9,Autres Garanties,Bris de glaces,,,False
+360,U3,GEMP,Bris de glaces,,,False
+370,U1,Dégat des eaux,Dégats des eaux,,,False
+370,U1,Risque de responsabilité,Dégats des eaux,,,False
+370,U2,Frais et Perte,Dégats des eaux,,,False
+370,U1,Cout de contrat,Dégats des eaux,,,False
+370,U5,Pertes Indirectes,Dégats des eaux,,,False
+370,U3,Honoraires Expert,Dégats des eaux,,,False
+370,U6,Autres Garanties,Dégats des eaux,,,False
+370,U4,Extension_Dégat des eaux,Dégats des eaux,,,False
+370,U2,Cout de l'avenat,Dégats des eaux,,,False
+390,U66,Vol avec effraction du contenu des coffres forts loués à des clients ,Globale de banque,,,False
+390,U67,Vols commis lors du mécanisme de banque à domicile,Globale de banque,,,False
+390,U68,Reprise du passé ,Globale de banque,,,False
+390,U69,Autre,Globale de banque,,,False
+390,U3,Prime Globale,Globale de banque,,,False
+390,U29,Banque à domicile,Globale de banque,,,False
+390,U30,Prime globale par instituation,Globale de banque,,,False
+390,U31,Fraudes commises par des tiers,Globale de banque,,,False
+390,U26,Faux et Usage de Faux ,Globale de banque,,,False
+390,U27,Transport,Globale de banque,,,False
+390,U28,Transport  de fonds à l’extérieur  des locaux  de l’assuré,Globale de banque,,,False
+390,U32,Utilisation frauduleuse de moyens paiements,Globale de banque,,,False
+390,U33,Vol commis sur les œuvres d’Art,Globale de banque,,,False
+390,U34,Reconstitution d’archives,Globale de banque,,,False
+390,U25,Faits du personnel,Globale de banque,,,False
+390,U40,"La garantie grèves, émeutes et mouvements populaires, actes de terrorisme et de sabotage",Globale de banque,,,False
+390,U41,"Lockout, sit-in",Globale de banque,,,False
+390,U42,Perte et endommagement de valeurs pendant que celles-ci se trouvent en la possession d'un client ou un représentant de celui-ci,Globale de banque,,,False
+390,U35,Malhonnetete des preposes,Globale de banque,,,False
+390,U36,Contrefaçon/Falsiflcation,Globale de banque,,,False
+390,U37,Fraude Informatique,Globale de banque,,,False
+390,U38,"Vols et détournements de fonds, commis à l’intérieur et à l’extérieur de La Banque, par suite d’attaque informatique et cybernétique",Globale de banque,,,False
+390,U39,Honoraires des professionnels,Globale de banque,,,False
+390,U1,Vol suite Gemp,Globale de banque,,,False
+390,U2,honoriares d'expert,Globale de banque,,,False
+390,U3,Frais et pertes,Globale de banque,,,False
+390,U4,Vol,Globale de banque,,,False
+390,U43,Reconstitution automatique des capitaux,Globale de banque,,,False
+390,U44,Frais de reconstitution des effets égarés,Globale de banque,,,False
+390,U45,"Les vols commis en cours de transport aérien ainsi que la disparition, les pertes ou les détournements de fonds et valeurs",Globale de banque,,,False
+390,U46,Les vols commis sur les fonds ou valeurs confiés ainsi que les pertes et disparitions.,Globale de banque,,,False
+390,U47,Les vols commis aux dépens des sociétés spécialisées dans le transport de fonds en cas de défaut ou d’insuffisance d’assurance de la part des dits transporteurs.,Globale de banque,,,False
+390,U48,Pertes pécuniaires résultant de faux ou de disparitions inexpliquées de valeurs (hors manquant de caisse),Globale de banque,,,False
+390,U49,Les événements climatiques,Globale de banque,,,False
+390,U50,Vols commis lors du mécanisme de banque à domicile,Globale de banque,,,False
+390,U51,"Détournements, abus de confiance du curateur et la falsification ",Globale de banque,,,False
+390,U52,Vols commis avec ou sans effraction pour pénétrer dans les locaux du souscripteur.,Globale de banque,,,False
+390,U53,Vols commis par les préposés ,Globale de banque,,,False
+390,U20,Vol par utilisation frauduleuse des cartes bancaires ,Globale de banque,,,False
+390,U21,Assurance de valeurs et biens dans l'établissement ,Globale de banque,,,False
+390,U22,Tous Frais de reconstitution ,Globale de banque,,,False
+390,U23,Pertes simples inexpliquées résultant ou non d’écritures ,Globale de banque,,,False
+390,U24,Détournement de fonds,Globale de banque,,,False
+390,U5,Vol par les faits des tiers à l'intérieur des loca,Globale de banque,,,False
+390,U6,Vol par les faits des tiers à l'extérieur des loca,Globale de banque,,,False
+390,U7,Vol par enlèvement et/ou détériorations et/ou mobilières   immobilières: coffre-forts-chambres fortes-distributeurs –aux distributeurs  et à leur contenu (DAB) -installations d’alarme et caméras ,Globale de banque,,,False
+390,U8,"Vol par enlèvement et détériorations mobilières et immobilières des coffres forts, chambres fortes et installations d'alarmes",Globale de banque,,,False
+390,U9,Vol et Détérioration Destruction et disparition pour quelque cause que ce soit y compris l’incendie et l’explosion ,Globale de banque,,,False
+390,U10,"Détériorations, destruction et disparition pour  quelque cause que ce soit y compris incendie et explosion, et dégâts des eaux ",Globale de banque,,,False
+390,U11,"Détériorations, destruction et disparition pour quelques causes que ce soit y compris incendie et explosion y compris les manquants de caisse",Globale de banque,,,False
+390,U12,Vol de Fonds conservés en meubles et/ou tiroirs caisses fermés a clé,Globale de banque,,,False
+390,U13,Vol du contenu des coffres forts destinés à la location,Globale de banque,,,False
+390,U14,Détériorations immobilières,Globale de banque,,,False
+390,U15,Vol avec effraction du contenu  des coffres-forts loués par les clients,Globale de banque,,,False
+390,U16,Détériorations des coffres-forts,Globale de banque,,,False
+390,U17,Vol par enlèvement et détériorations des coffres-forts du fait des voleurs,Globale de banque,,,False
+390,U18,Détériorations de la chambre forte du fait des voleurs,Globale de banque,,,False
+390,U19,Vol des installations d’alarme et détériorations causées à celles-ci par les voleurs.,Globale de banque,,,False
+390,U55,"pertes pécuniaires résultant  Paiement du montant des chèques ou des titres de crédit faux, erronés, falsifiés ",Globale de banque,,,False
+390,U56,pertes pécuniaires résultant Ouverture d’un crédit ou remise de titres,Globale de banque,,,False
+390,U57,pertes pécuniaires Négociation de valeurs par le souscripteur ,Globale de banque,,,False
+390,U58,Détérioration mobilière & immobilière,Globale de banque,,,False
+390,U59,Escroquerie de valeurs réprimée par le code pénal,Globale de banque,,,False
+390,U60,pertes résultant des faux et usage de faux documents,Globale de banque,,,False
+390,U61,"Disparitions inexpliquées, faux billets y compris manquants de caisse",Globale de banque,,,False
+390,U62,"Vols commis, par les tiers, par agressions, violences ou menaces sur la personne de l’assuré ",Globale de banque,,,False
+390,U63,Perte et endommagement de billets de banque à la suite de vol ,Globale de banque,,,False
+390,U64,valeurs perdues ou endommagées ,Globale de banque,,,False
+390,U65,Biens et situations nouvellement acquis ,Globale de banque,,,False
+554,GFPTA,Personnes Transportées,Individuel à la carte,,,False
+554,GFINDA,Individuel Accident Conducteur,Individuel à la carte,,,False
+554,GFEVCL,Evénement Climatique,Individuel à la carte,,,False
+554,GFVRK7,Vol Radio Cassette,Individuel à la carte,,,False
+554,GFBG,Bris de glace,Individuel à la carte,,,False
+554,GFDC,Dommage Collision,Individuel à la carte,,,False
+554,GOCAS,Défense-Recours (CAS),Individuel à la carte,,,False
+554,GFTIER,Tierce,Individuel à la carte,,,False
+554,GFTRM,Transport de Marchandises,Individuel à la carte,,,False
+554,U12,Extension RC à l'étranger,Individuel à la carte,,,False
+554,GFSEP,Service plus,Individuel à la carte,,,False
+554,GORC,Responsabilité Civile,Individuel à la carte,,,False
+554,GFVOL,Vol,Individuel à la carte,,,False
+554,GFINC,Incendie,Individuel à la carte,,,False
+554,GFASS,Assistance,Individuel à la carte,,,False
+554,GFGEMP,"Grèves, Emeutes, Mouvements populaires",Individuel à la carte,,,False
+555,GFEXRC,Extension de la RC à l'étranger,Trik Esslama,,,False
+555,GFASS,Assistance,Trik Esslama,,,False
+555,GFIND,Individuel Accident Conducteur,Trik Esslama,,,False
+555,GFPTA,Personnes transportées,Trik Esslama,,,False
+555,GFGEMP,"Grèves, Emeutes, Mouvements populaires",Trik Esslama,,,False
+555,GFEVT,Evénement climatiques,Trik Esslama,,,False
+555,GFK7,Vol radio cassette,Trik Esslama,,,False
+555,GFBG,Bris de glace,Trik Esslama,,,False
+555,GFDC,Dommage Collision,Trik Esslama,,,False
+555,GFTIER,Tierce,Trik Esslama,,,False
+555,GFINC,Incendie,Trik Esslama,,,False
+555,GOCAS,Défense-Recours (CAS),Trik Esslama,,,False
+555,GORC,Responsabilité Civile,Trik Esslama,,,False
+555,GFTRM,Transport de marchandise,Trik Esslama,,,False
+555,GFSPL,Service Plus,Trik Esslama,,,False
+555,GFEFP,Effet Personnels,Trik Esslama,,,False
+555,GFVAF,Valeur à neuf,Trik Esslama,,,False
+555,GFVOL,Vol,Trik Esslama,,,False
+556,GFGEMP,"Grèves, Emeutes, Mouvements populaires",Véhicule étranger,,,False
+556,GFEVCL,Evenement Climatique,Véhicule étranger,,,False
+556,GFDC,Dommage collisions,Véhicule étranger,,,False
+556,GFBG,Bris de Glace,Véhicule étranger,,,False
+556,GFASS,Assistance,Véhicule étranger,,,False
+556,GOCAS,Défense-Recours (CAS),Véhicule étranger,,,False
+556,GFINC,Incendie,Véhicule étranger,,,False
+556,GFPTA,Personnes transportées,Véhicule étranger,,,False
+556,GFIDA,Individuel Accident Conducteur,Véhicule étranger,,,False
+556,GORC,Responsabilité civile,Véhicule étranger,,,False
+570,AUTORC,Responsabilité Civile,Frontière,,,False
+570,AUTCAS,Cas,Frontière,,,False
+570,AUTVOL,Vol,Frontière,,,False
+570,AUTINC,Incendie,Frontière,,,False
+580,GOCAS,Défense-Recours (CAS),Flotte,,,False
+580,GORC,Responsabilité Civile,Flotte,,,False
+580,GFINC,Incendie,Flotte,,,False
+580,GFTIER,Tierce,Flotte,,,False
+580,GFDC,Dommage Collision,Flotte,,,False
+580,GFBG,Bris de glace,Flotte,,,False
+580,GFVRK7,Vol Radio Cassette,Flotte,,,False
+580,GFEVCL,Evénement Climatique,Flotte,,,False
+580,GFGEMP,"Grèves, Emeutes, Mouvements populaires",Flotte,,,False
+580,GFPTA,Personnes Transportées,Flotte,,,False
+580,GFINDA,Individuel Accident Conducteur,Flotte,,,False
+580,GFASS,Assistance,Flotte,,,False
+580,U12,Extension RC à l'étranger,Flotte,,,False
+580,FRQUIT,Frais de quittance,Flotte,,,False
+580,GFTRM,Transport de Marchandises,Flotte,,,False
+580,GFSEP,Service Plus,Flotte,,,False
+580,GFEFP,Effet Personnels,Flotte,,,False
+580,GFVOL,Vol,Flotte,,,False
+595,GFEVCL,Evénement Climatique,Parc Automobile de l'Etat,,,False
+595,GFGEMP,"Grèves, Emeutes, Mouvements populaires",Parc Automobile de l'Etat,,,False
+595,GFPTA,Personnes Transportées,Parc Automobile de l'Etat,,,False
+595,GFINDA,Individuel Accident Conducteur,Parc Automobile de l'Etat,,,False
+595,GFASS,Assistance,Parc Automobile de l'Etat,,,False
+595,U12,Extension RC à l'étranger,Parc Automobile de l'Etat,,,False
+595,FRQUIT,Frais de quittance,Parc Automobile de l'Etat,,,False
+595,GORC,Responsabilité Civile,Parc Automobile de l'Etat,,,False
+595,GOCAS,Défense-Recours (CAS),Parc Automobile de l'Etat,,,False
+595,GFVOL,Vol,Parc Automobile de l'Etat,,,False
+595,GFINC,Incendie,Parc Automobile de l'Etat,,,False
+595,GFTIER,Tierce,Parc Automobile de l'Etat,,,False
+595,GFDC,Dommage Collision,Parc Automobile de l'Etat,,,False
+595,GFBG,Bris de glace,Parc Automobile de l'Etat,,,False
+595,GFVRK7,Vol Radio Cassette,Parc Automobile de l'Etat,,,False
+671,U3,ITT,TD Prévoyance,,,False
+671,U4,Invalidité Partielle,TD Prévoyance,,,False
+671,U1,Décès,TD Prévoyance,,,False
+671,U2,Décès Accidentel,TD Prévoyance,,,False
+672,U1,Garantie en cas de décès en prime unique,TD Emprunteur Individuel,,,False
+672,U2,Garantie en cas d'ITT en prime unique,TD Emprunteur Individuel,,,False
+672,U3,Garantie en cas d'Invalidité Partielle en prime unique,TD Emprunteur Individuel,,,False
+672,U4,Garantie en cas de décès en prime périodique,TD Emprunteur Individuel,,,False
+672,U5,Garantie en cas d'ITT en prime périodique,TD Emprunteur Individuel,,,False
+672,U6,Garantie en cas d'Invalidité Partielle en prime périodique,TD Emprunteur Individuel,,,False
+687,U2,Exonération de primes en cas d'incapacité temporaire de travail,Longue Vie,,,False
+687,U3,Versement exceptionnel,Longue Vie,,,False
+687,U1,Capital en cas de vie avec contre assurance,Longue Vie,,,False
+688,U2,Garantie en cas de décès Accidentel,Vie Nouvelle,,,False
+688,U1,Garantie Epargne et Prévoayance,Vie Nouvelle,,,False
+688,U3,Garantie Exonération,Vie Nouvelle,,,False
+692,04,Garantie Prise en Charge Des Primes de la Garantie Frais de Rentrée Universitaire Annuels,P3 Avenir Jeunesse,,,False
+692,05,Garantie Rente Mensuelle en cas de décès de l'assuré,P3 Avenir Jeunesse,,,False
+692,06,Garantie Versement exeptionnel,P3 Avenir Jeunesse,,,False
+692,02,Exonération des Primes de la Bourse Mensuelle,P3 Avenir Jeunesse,,,False
+692,03,Garantie Frais de rentrée universaitaire Annuels,P3 Avenir Jeunesse,,,False
+692,01,Bourse Mensuelle,P3 Avenir Jeunesse,,,False
+803,U2,RC EXP :Dommages Matériels,MultiRisque,,,False
+803,U3,RC EXP :Dommages Immatériels consécutifs,MultiRisque,,,False
+803,U4,RC EXP :Tous Dommages confondus,MultiRisque,,,False
+803,U5,RC EXP :Rc Croisée,MultiRisque,,,False
+803,U6,Autres Garanties RC exploitation,MultiRisque,,,False
+803,U1,RC PRO :Dommage Corporels,MultiRisque,,,False
+803,U2,RC PRO :Dommages Matériels,MultiRisque,,,False
+803,U3,RC PRO :Dommages Immatériels consécutifs,MultiRisque,,,False
+803,U4,RC PRO :Tous Dommages confondus,MultiRisque,,,False
+803,U6,Autres Garanties RC Professionnelles,MultiRisque,,,False
+803,U1,RC EXP& PRO :Dommage Corporels,MultiRisque,,,False
+803,U28,Autre Garanties Incendie,MultiRisque,,,False
+803,U2,RC EXP & PRO :Dommages Matériels,MultiRisque,,,False
+803,U2,Toutes Explosions,MultiRisque,,,False
+803,U3,Toutes Explosions avec rvt,MultiRisque,,,False
+803,U3,RC EXP & PRO :Dommages Immatériels consécutifs,MultiRisque,,,False
+803,U4,RC EXP & PRO :Tous Dommages confondus,MultiRisque,,,False
+803,U6,Autres Garanties RC exploitation & Professionnelle,MultiRisque,,,False
+803,U1,RC Produit :Dommage Corporels,MultiRisque,,,False
+803,U2,RC Produit : Dommages Matériels,MultiRisque,,,False
+803,U3,RC Produit :Dommages Immatériels consécutifs,MultiRisque,,,False
+803,U4,RC Produit :Tous Dommages confondus,MultiRisque,,,False
+803,U6,Autres Garanties RC Produits,MultiRisque,,,False
+803,U1,Especes et Valeurs en coffre-fort,MultiRisque,,,False
+803,U2,Hors Coffre Fort,MultiRisque,,,False
+803,U3,Effet des voyageurs,MultiRisque,,,False
+803,U4,Vol dans les vestiares,MultiRisque,,,False
+803,U5,Bagages Confiés ou en consigne,MultiRisque,,,False
+803,U6,RC Manutention,MultiRisque,,,False
+803,U7,Autre garanties Rc Dépositaires,MultiRisque,,,False
+803,U21,Fuites de Sprinklers,MultiRisque,,,False
+803,U22,Coulages et contamination,MultiRisque,,,False
+803,U23,Renonciation et Recours,MultiRisque,,,False
+803,U10,BG: Renonciation et Recours,MultiRisque,,,False
+803,U20,Vol : Renonciation et Recours,MultiRisque,,,False
+803,U11,Détérioration des marchandises suites bris de Glac,MultiRisque,,,False
+803,U14,Détérioration des marchandises suites bris de Machines,MultiRisque,,,False
+803,U10,DE :Pack Risque de responsabilté,MultiRisque,,,False
+803,U24,Dérogation à la RP,MultiRisque,,,False
+803,U25,Reversibilté ou Repport des excédents,MultiRisque,,,False
+803,U26,Risque Atomique,MultiRisque,,,False
+803,U27,Shop Assitance,MultiRisque,,,False
+803,U1,RC EXP :Dommage Corporels,MultiRisque,,,False
+803,U33,Marchandie Révisable,MultiRisque,,,False
+803,U34,Pertes indirectes,MultiRisque,,,False
+803,U35,Pack Risques Spéciaux,MultiRisque,,,False
+803,U1,Protection juridique,MultiRisque,,,False
+803,U1,Défense et recours,MultiRisque,,,False
+803,U2,Garantie subséquente,MultiRisque,,,False
+803,U3,Intoxication alimentaire,MultiRisque,,,False
+803,U4,Pollution accidentelle,MultiRisque,,,False
+803,U5,Rc Parking,MultiRisque,,,False
+803,U6,Vol par les préposées au préjudice des tiers,MultiRisque,,,False
+803,U7,Reprise du passé,MultiRisque,,,False
+803,U4,Extension Perte d'exploitation suite Incendie,MultiRisque,,,False
+803,U5,Extensions facultatives_Perte d'exploitation suite incendie,MultiRisque,,,False
+803,U6,Extensions facultatives_Perte d'exploitation suite bris de machine,MultiRisque,,,False
+803,U7,PE : Honoraires d'experts,MultiRisque,,,False
+803,U8,Frais supplémentaires additionnels,MultiRisque,,,False
+803,U9,Pénalités de retard,MultiRisque,,,False
+803,U10,Renonciation et Recours,MultiRisque,,,False
+803,U1,cout contrat,MultiRisque,,,False
+803,U2,Cout d'avenant,MultiRisque,,,False
+803,U1,Incendie bâtiment,MultiRisque,,,False
+803,U36,Tremblement de Terre,MultiRisque,,,False
+803,U37,Inondation,MultiRisque,,,False
+803,U21,Vol du Matériel,MultiRisque,,,False
+803,U22,Vol des Marchandises,MultiRisque,,,False
+803,U23,Vol : Détérioration mobilières et immobilière,MultiRisque,,,False
+803,U3,BM: Socles et Fondation,MultiRisque,,,False
+803,U4,Détérioration des marchandises en entrepots frigorifriques suite bris de machines,MultiRisque,,,False
+803,U5,BM: Pertes financiéres,MultiRisque,,,False
+803,U6,Bris de Machines suite GEMP,MultiRisque,,,False
+803,U7,BM :Dommages aux existants,MultiRisque,,,False
+803,U8,BM :Briques réfactaires,MultiRisque,,,False
+803,U9,Frais et Perte suite Bris de machines,MultiRisque,,,False
+803,U10,BM: Pack Risques Spéciaux & Catstrophe Naturelle,MultiRisque,,,False
+803,U11,BM :Risques Spéciaux & Catstrophe Naturelle,MultiRisque,,,False
+803,U12,BM :Tremblement de terre,MultiRisque,,,False
+803,U13,Extension Garantie Bris de Machine,MultiRisque,,,False
+803,U9,Extension Garantie Dégats des eaux,MultiRisque,,,False
+803,U1,TRO : Dommages Matériels,MultiRisque,,,False
+803,U2,Pertes de données et support de données,MultiRisque,,,False
+803,U3,TRO :Frais supplémentaires,MultiRisque,,,False
+803,U4,TRO suite GEMP,MultiRisque,,,False
+803,U5,TRO :Tremblement de terre,MultiRisque,,,False
+803,U6,Frais et Perte suite TRO,MultiRisque,,,False
+803,U7,Cyber risque,MultiRisque,,,False
+803,U8,TRO :Risques Spéciaux & Catstrophe Naturelle,MultiRisque,,,False
+803,U9,TRO :Pack Risques Spéciaux & Catstrophe Naturelle,MultiRisque,,,False
+803,U10,TRO :Renonciation a recours,MultiRisque,,,False
+803,U11,Extension Garantie TRO,MultiRisque,,,False
+803,U1,Perte d'exploitation suite Incendie,MultiRisque,,,False
+803,U2,Perte d'exploitation suite Bris de Machines,MultiRisque,,,False
+803,U3,Perte d'exploitation suite TRO,MultiRisque,,,False
+803,U2,Extension Bris de Glaces,MultiRisque,,,False
+803,U1,Bris de Glaces,MultiRisque,,,False
+803,U3,Bris de Galace suite GEMP,MultiRisque,,,False
+803,U4,Extension Bris de Glaces formule Packs,MultiRisque,,,False
+803,U5,BG :Risques Spéciaux & Catstrophe Naturelle,MultiRisque,,,False
+803,U6,BG :Pack Risques Spéciaux & Catstrophe Naturelle,MultiRisque,,,False
+803,U7,Frais et Pertes suite Bris de Glace,MultiRisque,,,False
+803,U8,Pack Frais et Pertes suite Bris de Glace,MultiRisque,,,False
+803,U9,Extension Garantie bris de glaces,MultiRisque,,,False
+803,U1,Dégats des eaux,MultiRisque,,,False
+803,U2,Extension Dégats des eaux,MultiRisque,,,False
+803,U30,Pertes indirectes Marchandise,MultiRisque,,,False
+803,U31,Pertes indirectes matériel et équipement,MultiRisque,,,False
+803,U1,Brtis de Machine,MultiRisque,,,False
+803,U2,BM :Renonciation a recours,MultiRisque,,,False
+803,U32,Honoraires d'experts,MultiRisque,,,False
+803,U38,franchissement du mur de son,MultiRisque,,,False
+803,U11,Extension Garantie PE,MultiRisque,,,False
+803,U1,RC EMP :Dommage Corporels,MultiRisque,,,False
+803,U2,RC EMP :Dommages Matériels,MultiRisque,,,False
+803,U3,RC EMP :Dommages Immatériels consécutifs,MultiRisque,,,False
+803,U4,RC EMP :Tous Dommages confondus,MultiRisque,,,False
+803,U6,Autres Garanties RC Employeur,MultiRisque,,,False
+803,U1,Garanties TDS,MultiRisque,,,False
+803,U2,Prime du contrat,MultiRisque,,,False
+803,U1,Garanties cyber,MultiRisque,,,False
+803,U2,Prime de contrat,MultiRisque,,,False
+803,U29,Recours des Voisins et des Tiers,MultiRisque,,,False
+803,U4,Marchandie Périssables,MultiRisque,,,False
+803,U5,Frais et Pertes,MultiRisque,,,False
+803,U6,Packs Frais et Pertes,MultiRisque,,,False
+803,U1,Vol,MultiRisque,,,False
+803,U2,Extension Vol,MultiRisque,,,False
+803,U3,Vol : Détournement de fonds,MultiRisque,,,False
+803,U4,Vol : Détournement Immobilières,MultiRisque,,,False
+803,U5,Vol : Détérioration mobilières,MultiRisque,,,False
+803,U6,Vol : Disparitions inexpliquées,MultiRisque,,,False
+803,U7,Vol : Especes en caisse,MultiRisque,,,False
+803,U8,Vol : Dommages matériels causés aux bien,MultiRisque,,,False
+803,U9,Vol : Contenue Coffres-Fort,MultiRisque,,,False
+803,U10,Vol : Deterioration Chambres-Fort et coffre_fort,MultiRisque,,,False
+803,U11,Vol : Deterioration des Installations d'alarme,MultiRisque,,,False
+803,U12,Vol : Faux et Falsification des valeurs,MultiRisque,,,False
+803,U13,Vol : Vol suite à GEMP,MultiRisque,,,False
+803,U14,Vol : Utilisation Frauduleuse des cartes,MultiRisque,,,False
+803,U15,Vol : Transport de fonds,MultiRisque,,,False
+803,U16,Vol : Taxe Douanieres,MultiRisque,,,False
+803,U18,Extension Garantie VOL,MultiRisque,,,False
+803,U3,DE: Pertes Indirectes,MultiRisque,,,False
+803,U4,DE :Dommages matériels,MultiRisque,,,False
+803,U5,Frais et Perte suite Dégats des eaux,MultiRisque,,,False
+803,U6,DE :Risques Spéciaux & Catstrophe Naturelle,MultiRisque,,,False
+803,U7,DE :Risque de Responsabilté,MultiRisque,,,False
+803,U17,Vol : Frais et Perte,MultiRisque,,,False
+803,U8,DE :Pack Risques Spéciaux & Catstrophe Naturelle,MultiRisque,,,False
+803,U7,Pertes indirectes Batiments,MultiRisque,,,False
+803,U8,Pertes accidentelles de liquide,MultiRisque,,,False
+803,U9,Dommages aux appareils électriques et électronique,MultiRisque,,,False
+803,U11,Valeur à Neuf,MultiRisque,,,False
+803,U12,Nouvelles Acquisition / Assurance Automatique,MultiRisque,,,False
+803,U13,Risques Spéciaux & Catstrophe Naturelle,MultiRisque,,,False
+803,U14,Pack Risques Spéciaux & Catstrophe Naturelle,MultiRisque,,,False
+803,U16,Pack Risque de responsabilté,MultiRisque,,,False
+803,U17,Risque de Responsabilté,MultiRisque,,,False
+803,U18,GEMP,MultiRisque,,,False
+803,U19,Incendie Marchandise,MultiRisque,,,False
+803,U20,Incendie Matériels et equipements,MultiRisque,,,False
+804,U1,Protection juridique,MRP,,,False
+804,U4,Valeur à neuf,MRP,,,False
+804,U9,GEMP,MRP,,,False
+804,U10,Inondations,MRP,,,False
+804,U11,Dommages aux appareils éléctriques,MRP,,,False
+804,U1,Vol,MRP,,,False
+804,U2,Contenu coffre fort,MRP,,,False
+804,U3,Espéces en caisses,MRP,,,False
+804,U4,Déteriorations immobiliéres,MRP,,,False
+804,U1,Dégâts des eaux,MRP,,,False
+804,U1,Bris de glace,MRP,,,False
+804,U1,Dommages matériels,MRP,,,False
+804,U1,Dommages matériels,MRP,,,False
+804,U1,Dommages corporels,MRP,,,False
+804,U5,Perte indirecte aprés incendie,MRP,,,False
+804,U6,Honoraires d'expert,MRP,,,False
+804,U7,Frais de deblais et démolition,MRP,,,False
+804,U8,Pack risques spéciaux,MRP,,,False
+804,U2,Intoxications alimentaires,MRP,,,False
+804,U3,Dommages materiels et immateriéles consécutifs,MRP,,,False
+804,U12,Recours des voisins et tiers,MRP,,,False
+804,U13,Privation de jouissance,MRP,,,False
+804,U14,Perte de loyer,MRP,,,False
+804,U15,Toutes explosions / foudre et RVT,MRP,,,False
+804,U16,Tremblement de terre,MRP,,,False
+804,U17,"Tempete, ouragan, cyclone, tornade et grele sur les toitures",MRP,,,False
+804,U1,Incendie,MRP,,,False
+804,U2,Toutes explosions / foudre,MRP,,,False
+804,U1,Shop Assistance,MRP,,,False
+805,U1,Protection juridique,MRH,,,False
+805,U1,Assistance a la personne,MRH,,,False
+805,U1,Séjours et voyages,MRH,,,False
+805,U2,Jardins et piscines,MRH,,,False
+805,U3,Assurance scolaire,MRH,,,False
+805,U4,Dommages aux panneaux solaires et photovoltaïques,MRH,,,False
+805,U6,Employés de Maison,MRH,,,False
+805,U1,RC Générale,MRH,,,False
+805,U2,Incendie et garanties annexes,MRH,,,False
+805,U4,Vol,MRH,,,False
+805,U5,GEMP,MRH,,,False
+805,U6,Dégats des eaux,MRH,,,False
+805,U7,Bris de glaces,MRH,,,False
+805,U8,Dommages aux appareils électriques,MRH,,,False
+805,U9,Évènements climatiques et catastrophes naturelles,MRH,,,False
+805,U10,Objets de valeurs,MRH,,,False
+805,U11,Défense et Recours Judiciaire,MRH,,,False
+805,U12,Assistance Habitation,MRH,,,False
+805,U13,Dommages aux objets multimédia,MRH,,,False
+807,AS1,Soins d’urgence en cas d’accident,Assurance scolaire,,,False
+807,AS2,Transport Sanitaire ou Rapatriement,Assurance scolaire,,,False
+807,U1,Cout du contrat,Assurance scolaire,,,False
+807,U3,Prime de contrat,Assurance scolaire,,,False
+807,U2,Cout d'avenant,Assurance scolaire,,,False
+807,RCDM,Dommages Matériels,Assurance scolaire,,,False
+807,RCDC,Dommages Corporels,Assurance scolaire,,,False
+807,ASCR,Cours de Rattrapages,Assurance scolaire,,,False
+807,AS6,Couverture géographique Assistance Scolaire,Assurance scolaire,,,False
+807,AS5,Kinésithérapeute en cas de traumatisme,Assurance scolaire,,,False
+807,AS4,Assistance psychologique en cas d’accident ou décè,Assurance scolaire,,,False
+807,GAFM,Frais Médicaux,Assurance scolaire,,,False
+807,GAIN,Incapacité,Assurance scolaire,,,False
+807,GADE,Décès,Assurance scolaire,,,False
+807,AS3,Déplacement et Séjour d’un membre de la famille,Assurance scolaire,,,False
+808,U9,Dommages aux panneaux solaires et photovoltaïques,MRH Collectif,,,False
+808,U3,Cout d'avenant,MRH Collectif,,,False
+808,U11,Évènements climatiques et catastrophes naturelles,MRH Collectif,,,False
+808,U12,GEMP,MRH Collectif,,,False
+808,U13,Incendie et garanties annexes,MRH Collectif,,,False
+808,U14,Jardins et piscines,MRH Collectif,,,False
+808,U15,Objets de valeurs,MRH Collectif,,,False
+808,U16,RC Générale,MRH Collectif,,,False
+808,U17,Séjours et voyages,MRH Collectif,,,False
+808,U18,Protection Juridique,MRH Collectif,,,False
+808,U19,Vol,MRH Collectif,,,False
+808,U6,Dégats des eaux,MRH Collectif,,,False
+808,U1,Cout d'adhesion,MRH Collectif,,,False
+808,U2,Cout de contrat,MRH Collectif,,,False
+808,U1,Dégat des eaux,MRH Collectif,,,False
+808,U2,Dommage Corporels,MRH Collectif,,,False
+808,U3,Dommage Matériels,MRH Collectif,,,False
+808,U4,Dommages aux appareils électriques et électronique,MRH Collectif,,,False
+808,U5,extension dégats des eaux,MRH Collectif,,,False
+808,U6,Frais de demolition et deblais,MRH Collectif,,,False
+808,U7,Frais de deplacement et replacement,MRH Collectif,,,False
+808,U8,Frais de recherche de fuites,MRH Collectif,,,False
+808,U9,GEMP,MRH Collectif,,,False
+808,U10,Honnoraires expert,MRH Collectif,,,False
+808,U11,Incendie,MRH Collectif,,,False
+808,U12,Pack Risques spéciaux et CAT NAT,MRH Collectif,,,False
+808,U13,Risques spéciaux et CAT NAT,MRH Collectif,,,False
+808,U14,Risque de Responsabilté,MRH Collectif,,,False
+808,U8,Dommages aux objets multimédia,MRH Collectif,,,False
+808,U7,Dommages aux appareils électriques,MRH Collectif,,,False
+808,U5,Défense et Recours Judiciaire,MRH Collectif,,,False
+808,U4,Bris de glaces,MRH Collectif,,,False
+808,U3,Assurance scolaire,MRH Collectif,,,False
+808,U1,Autre,MRH Collectif,,,False
+808,U2,Assistance Habitation,MRH Collectif,,,False
+808,U1,Assistance a la personne,MRH Collectif,,,False
+808,U19,Vol,MRH Collectif,,,False
+808,U18,Véhicule en stationnement,MRH Collectif,,,False
+808,U17,Valeur à neuf,MRH Collectif,,,False
+808,U16,Toutes explosions RVT,MRH Collectif,,,False
+808,U15,Toute Explosion,MRH Collectif,,,False
+808,U10,Employés de Maison,MRH Collectif,,,False
+830,U2,Les Phénomenes naturels,Tous Risques Chantier,,,False
+830,U1,Dommages à l'ouvrage,Tous Risques Chantier,,,False
+830,U3,Dommages matériels,Tous Risques Chantier,,,False
+831,U3,Frais supplémentaires,Engins de chantiers,,,False
+831,U2,Honoraires expert ,Engins de chantiers,,,False
+831,U1,Dommages matériels,Engins de chantiers,,,False
+831,U5,Pertes indirectes,Engins de chantiers,,,False
+831,U4,GEMP,Engins de chantiers,,,False
+833,U6,Pollution graduelle et accidentelle,TRC,,,False
+833,U7,"Pollution graduelle ,accidentelle et non accidente",TRC,,,False
+833,U1,Dommages aux Biens Existants et/ou avoisinants,TRC,,,False
+833,U2,"Conséquences des erreurs de conception, de calcul ou de plan",TRC,,,False
+833,U3,"Erreurs de conception, de calcul ou de plan",TRC,,,False
+833,U4,Essai /mise en service,TRC,,,False
+833,U5,Dommages aux Equipements et Installations provisoires de chantier,TRC,,,False
+833,U6,"Honoraires d'experts,d’architectes et d’ingénieurs conseils",TRC,,,False
+833,U7,Greves Emeutes et Mouvements Populaires,TRC,,,False
+833,U9,Entreposage hors du site des travaux,TRC,,,False
+833,U10,Transport terrestre intérieur,TRC,,,False
+833,U11,"Vibration, suppression ou affaiblissement des points d'appui",TRC,,,False
+833,U12,Dommages aux équipements de l’entrepreneur utilisés dans le chantier,TRC,,,False
+833,U13,Bien assurés hors du site des travaux,TRC,,,False
+833,U14,Perte d'exploitation anticipé,TRC,,,False
+833,U15,Les dommages causés du fait de l'usage d'explosifs,TRC,,,False
+833,U16,Frais supplémentaires,TRC,,,False
+833,U17,Pertes indirectes,TRC,,,False
+833,U1,Maintenance visites,TRC,,,False
+833,U2,Maintenance étendue,TRC,,,False
+833,U3,Maintenance constructeur,TRC,,,False
+833,U1,Frais de déblaiement et démolition,TRC,,,False
+833,U2,Frais pour heures supplémentaires et transport à grande vitesse,TRC,,,False
+833,U3,Frais pour heures supplémentaires et transport à grande vitesse y compris le Fret aerien,TRC,,,False
+833,U4,Fret aerien,TRC,,,False
+833,U5,Frais de transport accéléré y compris le Fret aerien,TRC,,,False
+833,U6,Frais de reconstitution des plans et dessins,TRC,,,False
+833,U7,Frais d'Equipements de lutte contre incendie,TRC,,,False
+833,U8,Périls imminents «  sue and labour »,TRC,,,False
+833,U1,Prime de contrat,TRC,,,False
+833,U9,Frais et pertes,TRC,,,False
+833,U5,Frais de quittance,TRC,,,False
+833,U5,Pollution accidentelle,TRC,,,False
+833,U4,RC pendant la maintenance,TRC,,,False
+833,U3,"RC Cable, Conduite et egouts",TRC,,,False
+833,U2,RC Simple et RC croisée,TRC,,,False
+833,U1,RC simple,TRC,,,False
+833,U3,Dommages matériels,TRC,,,False
+833,U2,Les Phénomenes naturels,TRC,,,False
+833,U1,Dommages à l'ouvrage,TRC,,,False
+833,U8,Entreposage,TRC,,,False
+834,U7,"Pollution graduelle ,accidentelle et non accidente",TRC individuel,,,False
+834,U1,Dommages aux Biens Existants et/ou avoisinants,TRC individuel,,,False
+834,U2,"Conséquences des erreurs de conception, de calcul ou de plan",TRC individuel,,,False
+834,U3,"Erreurs de conception, de calcul ou de plan",TRC individuel,,,False
+834,U4,Essai /mise en service,TRC individuel,,,False
+834,U5,Dommages aux Equipements et Installations provisoires de chantier,TRC individuel,,,False
+834,U7,Greves Emeutes et Mouvements Populaires,TRC individuel,,,False
+834,U6,"Honoraires d'experts,d’architectes et d’ingénieurs conseils",TRC individuel,,,False
+834,U8,Entreposage,TRC individuel,,,False
+834,U9,Entreposage hors du site des travaux,TRC individuel,,,False
+834,U10,Transport terrestre intérieur,TRC individuel,,,False
+834,U11,"Vibration, suppression ou affaiblissement des points d'appui",TRC individuel,,,False
+834,U12,Dommages aux équipements de l’entrepreneur utilisés dans le chantier,TRC individuel,,,False
+834,U13,Bien assurés hors du site des travaux,TRC individuel,,,False
+834,U14,Perte d'exploitation anticipé,TRC individuel,,,False
+834,U15,Les dommages causés du fait de l'usage d'explosifs,TRC individuel,,,False
+834,U16,Frais supplémentaires,TRC individuel,,,False
+834,U17,Pertes indirectes,TRC individuel,,,False
+834,U1,Maintenance visites,TRC individuel,,,False
+834,U2,Maintenance étendue,TRC individuel,,,False
+834,U3,Maintenance constructeur,TRC individuel,,,False
+834,U1,Frais de déblaiement et démolition,TRC individuel,,,False
+834,U2,Frais pour heures supplémentaires et transport à grande vitesse,TRC individuel,,,False
+834,U3,Frais pour heures supplémentaires et transport à grande vitesse y compris le Fret aerien,TRC individuel,,,False
+834,U4,Fret aerien,TRC individuel,,,False
+834,U5,Frais de transport accéléré y compris le Fret aerien,TRC individuel,,,False
+834,U6,Frais de reconstitution des plans et dessins,TRC individuel,,,False
+834,U7,Frais d'Equipements de lutte contre incendie,TRC individuel,,,False
+834,U8,Périls imminents «  sue and labour »,TRC individuel,,,False
+834,U9,Frais et pertes,TRC individuel,,,False
+834,U1,Prime de contrat,TRC individuel,,,False
+834,U1,Dommages à l'ouvrage,TRC individuel,,,False
+834,U2,Les Phénomenes naturels,TRC individuel,,,False
+834,U3,Dommages matériels,TRC individuel,,,False
+834,U1,RC simple,TRC individuel,,,False
+834,U2,RC Simple et RC croisée,TRC individuel,,,False
+834,U3,"RC Cable, Conduite et egouts",TRC individuel,,,False
+834,U4,RC pendant la maintenance,TRC individuel,,,False
+834,U5,Pollution accidentelle,TRC individuel,,,False
+834,U6,Pollution graduelle et accidentelle,TRC individuel,,,False
+855,U1,RC,Risque Pétroliers,,,False
+855,U2,Perte  d'exploitation (busness  interruption),Risque Pétroliers,,,False
+855,U3,GEMP/ATS,Risque Pétroliers,,,False
+855,U1,Autres Garanties ( 12%),Risque Pétroliers,,,False
+855,U2,Autres Garanties ( 6%),Risque Pétroliers,,,False
+855,U1,Dommages causés aux engins de forage,Risque Pétroliers,,,False
+855,U1,Cout contrat,Risque Pétroliers,,,False
+855,U2,Cout adhésion,Risque Pétroliers,,,False
+855,U3,Cout d'avenant,Risque Pétroliers,,,False
+855,U1,Dommages  causés aux Puits,Risque Pétroliers,,,False
+855,U1,Dommages causés aux installations pertrolières,Risque Pétroliers,,,False
+855,U3,Autres Garanties ( 0%),Risque Pétroliers,,,False
+870,U1,Dommage à l'ouvrage habitation,RC Decennale,,,False
+870,U2,Dommage à l'ouvrage autre que habitation,RC Decennale,,,False
+870,U3,Dommages aux biens existants,RC Decennale,,,False
+870,U1,Complexe d'étanchiété,RC Decennale,,,False
+870,U3,Frais de déblais et de démolition,RC Decennale,,,False
+2222,U1,RC dommages matériels Marchandises diverses,RC T M,,,False
+2222,U5,RC Tous dommages confondus,RC T M,,,False
+2222,U3,RC dommages immatériels consécutifs,RC T M,,,False
+2222,U2,RC dommage corporel,RC T M,,,False
+2222,U4,RC dommages matériels Vracs solide homogènes,RC T M,,,False
+2222,U6,Autres,RC T M,,,False
+2301,U5,RC dommages immatériels consécutifs,RC Transporteur Maritime,,,False
+2301,U4,RC dommage corporel Non-Passagers,RC Transporteur Maritime,,,False
+2301,U3,RC dommage corporel Passagers,RC Transporteur Maritime,,,False
+2301,U2,RC dommages matériels( Vracs solide homogènes),RC Transporteur Maritime,,,False
+2301,U1,RC dommages matériels (Marchandises diverses),RC Transporteur Maritime,,,False
+2301,U1,Cout du contrat,RC Transporteur Maritime,,,False
+2301,U1,Autres,RC Transporteur Maritime,,,False
+2301,U6,RC Tous dommages confondus,RC Transporteur Maritime,,,False
+2301,U7,RC vis-à-vis Equipage,RC Transporteur Maritime,,,False
+2301,U8,RC Pollution,RC Transporteur Maritime,,,False
+2301,U9,Frais de procédure de justice,RC Transporteur Maritime,,,False
+2301,U10,frais exposés pour le renfloument,RC Transporteur Maritime,,,False
+2301,U1,Dommages aux navires,RC Transporteur Maritime,,,False
+2301,U1,Risque de guerre,RC Transporteur Maritime,,,False
+2301,U2,Cout d'adhésion,RC Transporteur Maritime,,,False
+2301,U3,Cout d'avenant,RC Transporteur Maritime,,,False
+2302,U1,Cout du contrat,RC Chantier Naval,,,False
+2302,U2,RC dommage corporel,RC Chantier Naval,,,False
+2302,U3,RC dommages immatériels consécutifs,RC Chantier Naval,,,False
+2302,U1,RC dommages matériels,RC Chantier Naval,,,False
+2302,U3,Cout d'avenant,RC Chantier Naval,,,False
+2302,U5,RC Tous dommages confondus,RC Chantier Naval,,,False
+2302,U6,Autres,RC Chantier Naval,,,False
+2302,U2,Cout d'adhésion,RC Chantier Naval,,,False
+2302,U4,Recours des tiers,RC Chantier Naval,,,False
+2400,U3,Cout d'avenant,MR Transport Aviation,,,False
+2400,U2,Cout d'adhesion,MR Transport Aviation,,,False
+2400,U1,Cout Contrat,MR Transport Aviation,,,False
+2400,U1,Autres Garanties,MR Transport Aviation,,,False
+2400,U2,RC Risque De Guerre AVN52,MR Transport Aviation,,,False
+2400,U3,RC Specifique RPK,MR Transport Aviation,,,False
+2400,U2,Responsabilite Civile  Envers Les Non Passagers,MR Transport Aviation,,,False
+2400,U1,Responsabilite Civile  Envers Les Passagers,MR Transport Aviation,,,False
+2400,U2,Perte De Licence,MR Transport Aviation,,,False
+2400,U1,Individuel Accident,MR Transport Aviation,,,False
+2400,U2,Pieces de Rechange,MR Transport Aviation,,,False
+2400,U1,Garanties Corps Aeronefs,MR Transport Aviation,,,False
+2400,U1,RC Exploitant Des Aeroports,MR Transport Aviation,,,False
+2402,U1,Décés,Individuel accident,,,False
+2402,U6,Indemnité journaliére,Individuel accident,,,False
+2402,U5,Frais médicaux,Individuel accident,,,False
+2402,U4,Incapacité,Individuel accident,,,False
+2402,U2,Perte de Licence,Individuel accident,,,False
+2412,U2,Autres Garanties,Risque Corps Pièces détachées,,,False
+2412,U1,Risques Corps Pièces Détachées,Risque Corps Pièces détachées,,,False
